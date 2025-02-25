@@ -1,0 +1,1322 @@
+Year,Car Name,Mileage (kms),Fuel Type,Transmission,Price (Lakh),Location
+2023,BMW X1 sDrive18d M Sport,"20,000",Diesel,Automatic,50,Ahmedabad
+2022,Maruti Celerio ZXI,"20,280",Petrol,Manual,4.60,"Naroda, Ahmedabad"
+2011,Hyundai i10 Sportz AT,"47,000",Petrol,Automatic,3,"Navrangpura, Ahmedabad"
+2012,Hyundai i20 Sportz AT 1.4,"51,000",Petrol,Automatic,3.25,"Navrangpura, Ahmedabad"
+2020,Kia Sonet HTK Plus BSVI,"34,000",Petrol,Manual,8.50,"Abasana, Ahmedabad"
+2014,Hyundai i10 Magna,"67,000",Petrol,Manual,3,"Navrangpura, Ahmedabad"
+2020,Maruti S-Presso VXI Plus AT 2019-2022,"54,000",Petrol,Automatic,3.85,"Navrangpura, Ahmedabad"
+2023,Audi Q3 Premium Plus,"11,519",Petrol,Automatic,39.50,"Bhadaj, Ahmedabad"
+2016,Hyundai Creta 1.6 CRDi AT SX Plus,"1,08,000",Diesel,Automatic,7.90,"Abasana, Ahmedabad"
+2019,Honda Amaze S CVT Petrol BSIV,"58,000",Petrol,Automatic,5.75,"Makarba, Ahmedabad"
+2017,Honda Amaze VX CVT i-VTEC,"40,000",Petrol,Automatic,4.95,"Makarba, Ahmedabad"
+2023,Kia Sonet GTX Plus Diesel iMT,"9,557",Diesel,Automatic,10.76,"Gota, Ahmedabad"
+2018,Hyundai Creta 1.6 SX,"67,000",Petrol,Manual,9.50,"Ghodasar, Ahmedabad"
+2019,Honda Amaze S Petrol BSIV,"25,000",Petrol,Manual,6.25,"Makarba, Ahmedabad"
+2019,Hyundai Grand i10 1.2 Kappa Sportz BSIV,"67,352",Petrol,Manual,4.23,"Naroda, Ahmedabad"
+2018,Hyundai Grand i10 1.2 Kappa Sportz BSIV,"30,782",Petrol,Manual,4.67,"Naroda, Ahmedabad"
+2021,BMW 5 Series 520d Luxury Line,"35,000",Diesel,Automatic,49,"Paldi, Ahmedabad"
+2013,Maruti Wagon R Stingray VXI,"19,000",Petrol,Manual,3.50,"Makarba, Ahmedabad"
+2021,Hyundai Grand i10 Nios Sportz,"39,000",Petrol,Manual,6.25,"Makarba, Ahmedabad"
+2023,Maruti Celerio VXI,"18,661",Petrol,Manual,5,"Naroda, Ahmedabad"
+2019,Tata Tiago 1.2 Revotron XTA,"31,000",Petrol,Automatic,4.75,"Naranpura, Ahmedabad"
+2019,Kia Seltos HTX Plus Diesel,"56,000",Diesel,Manual,12.75,"Makarba, Ahmedabad"
+2019,Hyundai Grand i10 Nios AMT Magna,"96,000",Petrol,Automatic,5.50,"Makarba, Ahmedabad"
+2016,Honda Amaze E i-VTEC,"72,000",Petrol,Manual,3.90,"Naranpura, Ahmedabad"
+2021,Tata Nexon XMA AMT S BSVI,"51,000",Petrol,Automatic,7.75,"Makarba, Ahmedabad"
+2019,Honda Amaze S Diesel BSIV,"88,000",Diesel,Manual,5.50,"Makarba, Ahmedabad"
+2015,Maruti Wagon R VXI BS IV,"39,000",Petrol,Manual,3.50,"Makarba, Ahmedabad"
+2016,Honda Brio S MT,"52,000",Petrol,Manual,3.50,"Navrangpura, Ahmedabad"
+2022,Hyundai Grand i10 Nios Sportz CNG,"46,298",CNG,Manual,6.52,"Naroda, Ahmedabad"
+2021,Hyundai Grand i10 Nios AMT Sportz,"68,000",Petrol,Automatic,5.95,"Makarba, Ahmedabad"
+2023,Citroen C3 Puretech 82 Feel,"19,000",Petrol,Manual,6.50,"Naranpura, Ahmedabad"
+2023,BMW X1 sDrive18d M Sport,"16,000",Diesel,Automatic,46,"Ambli, Ahmedabad"
+2010,Hyundai i10 Sportz 1.2,"49,000",Petrol,Manual,2.30,"Naranpura, Ahmedabad"
+2015,Hyundai i20 Sportz Option 1.2,"78,000",Petrol,Manual,5.25,"Makarba, Ahmedabad"
+2014,Honda Amaze E i-Dtech,"73,000",Diesel,Manual,3.70,"Makarba, Ahmedabad"
+2014,Audi A3 35 TDI Attraction,"42,000",Diesel,Automatic,12.90,"Makarba, Ahmedabad"
+2019,Hyundai Creta 1.6 SX Automatic,"18,000",Petrol,Automatic,11.40,"Makarba, Ahmedabad"
+2013,Toyota Etios G,"70,000",Petrol,Manual,3.50,"Ghodasar, Ahmedabad"
+2014,Hyundai Xcent 1.2 Kappa S,"61,000",Petrol,Manual,4.50,"Naranpura, Ahmedabad"
+2017,Tata Tiago 1.2 Revotron XTA,"73,000",Petrol,Automatic,4.50,"Makarba, Ahmedabad"
+2023,Hyundai Grand i10 Nios Sportz,"23,000",Petrol,Manual,6.50,"Makarba, Ahmedabad"
+2022,Hyundai Grand i10 Nios Sportz Dual Tone,"18,000",Petrol,Manual,6.75,"Makarba, Ahmedabad"
+2017,Honda WR-V i-VTEC VX,"51,000",Petrol,Manual,6.50,"Makarba, Ahmedabad"
+2015,Hyundai i20 Asta 1.2,"43,000",Petrol,Manual,5.50,"Makarba, Ahmedabad"
+2019,Maruti XL6 Alpha,"76,700",Petrol,Manual,3.25,"Vasna, Ahmedabad"
+2018,Maruti Swift AMT ZXI,"71,000",Petrol,Automatic,5.90,"Makarba, Ahmedabad"
+2021,Mahindra Thar LX 4WD Hard Top AT BSVI,"22,188",Petrol,Automatic,11.21,"Mumatpura, Ahmedabad"
+2018,Hyundai Grand i10 1.2 Kappa Magna BSIV,"55,000",Petrol,Manual,4.75,"Naranpura, Ahmedabad"
+2014,Hyundai i20 Asta 1.2,"71,000",Petrol,Manual,3.95,"Makarba, Ahmedabad"
+2015,Hyundai Grand i10 Magna,"81,000",Petrol,Manual,3.95,"Makarba, Ahmedabad"
+2023,Kia Sonet GTX Plus Diesel iMT,"9,557",Diesel,Automatic,10.76,"Gota, Ahmedabad"
+2014,Hyundai i20 Asta Optional with Sunroof 1.2,"74,000",Petrol,Manual,4.35,"Makarba, Ahmedabad"
+2016,Maruti Baleno 1.2 Sigma,"88,000",Petrol,Manual,4.50,"Makarba, Ahmedabad"
+2013,Hyundai i20 Era Petrol,"14,338",Petrol,Manual,2.70,"Gota, Ahmedabad"
+2017,Honda WR-V i-DTEC VX,"62,000",Diesel,Manual,6.90,"Makarba, Ahmedabad"
+2017,Honda WR-V i-DTEC VX,"62,000",Diesel,Manual,6.90,"Makarba, Ahmedabad"
+2015,Hyundai Grand i10 AT Asta,"70,000",Petrol,Automatic,4.15,"Naranpura, Ahmedabad"
+2022,Tata Nexon XZ Plus,"8,244",Petrol,Manual,10.12,"Gota, Ahmedabad"
+2016,Honda Jazz 1.2 S i VTEC,"75,000",Petrol,Manual,4.37,"Naranpura, Ahmedabad"
+2014,Honda Brio S MT,"85,000",Petrol,Manual,3.15,"Makarba, Ahmedabad"
+2018,Maruti Ignis 1.2 AMT Zeta BSIV,"91,224",Petrol,Automatic,4,"Naroda, Ahmedabad"
+2011,Hyundai i20 1.2 Magna,"86,000",Petrol,Manual,2.90,"Naranpura, Ahmedabad"
+2017,Maruti Baleno 1.3 Delta,"80,000",Diesel,Manual,5.50,"Naranpura Vistar, Ahmedabad"
+2023,Mercedes-Benz A-Class Limousine A 200d BSVI,"16,000",Diesel,Automatic,42,"Paldi, Ahmedabad"
+2015,Maruti S Cross DDiS 200 Alpha,"72,000",Diesel,Manual,5.50,"Makarba, Ahmedabad"
+2014,Honda City i VTEC SV,"66,000",Petrol,Manual,4.75,"Makarba, Ahmedabad"
+2016,Honda Amaze VX AT i-Vtech,"58,000",Petrol,Automatic,4.50,"Makarba, Ahmedabad"
+2019,Maruti Baleno 1.2 Delta,"99,662",Petrol,Manual,4.75,"Mumatpura, Ahmedabad"
+2021,Maruti Ignis Sigma BSVI,"61,864",Petrol,Manual,3.98,"Naroda, Ahmedabad"
+2021,Maruti Wagon R VXI 1.2,"33,755",Petrol,Manual,4.71,"Naroda, Ahmedabad"
+2014,Maruti Alto K10 VXI,"59,930",Petrol,Manual,2.29,"Gota, Ahmedabad"
+2019,Maruti Swift AMT VXI,"85,000",Petrol,Automatic,5.75,"Makarba, Ahmedabad"
+2018,Maruti Baleno 1.2 Delta,"69,500",Petrol,Manual,4.11,"Vastral, Ahmedabad"
+2016,BMW X1 sDrive 20d xLine,"46,000",Diesel,Automatic,18.75,"Makarba, Ahmedabad"
+2014,Renault Duster Petrol RxL,"40,000",Petrol,Manual,3.61,"Naranpura Vistar, Ahmedabad"
+2016,Maruti Baleno 1.2 Delta,"92,000",Petrol,Manual,4.40,"Makarba, Ahmedabad"
+2019,Hyundai Creta 1.6 SX Automatic,"89,800",Petrol,Automatic,9.75,"Ctm Char Rasta, Ahmedabad"
+2020,Maruti Alto 800 LXI,"35,000",Petrol,Manual,3.51,"Krishnanagar, Ahmedabad"
+2021,Nissan Magnite Turbo XL,"41,637",Petrol,Manual,5.32,"Gota, Ahmedabad"
+2021,Honda Jazz V CVT,"31,250",Petrol,Automatic,7.25,"Naranpura, Ahmedabad"
+2018,Mercedes-Benz C-Class C 220 CDI Style,"59,000",Diesel,Automatic,24.50,"Makarba, Ahmedabad"
+2020,Kia Seltos HTK G,"58,000",Petrol,Manual,10.51,"Ambli, Ahmedabad"
+2015,Toyota Innova 2.5 VX (Diesel) 7 Seater BS IV,"87,000",Diesel,Manual,8.95,"Makarba, Ahmedabad"
+2017,Toyota Innova Crysta 2.8 GX AT BSIV,"86,000",Diesel,Automatic,13.95,"Makarba, Ahmedabad"
+2015,Chevrolet Spark 1.0 LT,"65,000",Petrol,Manual,1.75,"Makarba, Ahmedabad"
+2020,Hyundai Aura S,"34,000",Petrol,Manual,6.40,"Makarba, Ahmedabad"
+2021,Mahindra XUV500 W11 Option,"65,838",Diesel,Manual,11.20,"Mumatpura, Ahmedabad"
+2022,Maruti Wagon R VXI BSVI,"16,569",Petrol,Manual,4.82,"Naroda, Ahmedabad"
+2017,Mahindra KUV 100 mFALCON D75 K8,"66,000",Diesel,Manual,3.95,"Makarba, Ahmedabad"
+2021,Renault KWID RXL,"29,378",Petrol,Manual,3.64,"Gota, Ahmedabad"
+2018,Honda Amaze S i-VTEC,"62,000",Petrol,Manual,5.75,"Makarba, Ahmedabad"
+2021,Hyundai Venue SX Turbo,"13,969",Petrol,Manual,8.45,"Gota, Ahmedabad"
+2021,Renault KWID RXT,"13,297",Petrol,Manual,4.04,"Gota, Ahmedabad"
+2014,Hyundai i20 Asta 1.2,"92,000",Petrol,Manual,3.85,"Makarba, Ahmedabad"
+2019,Hyundai i20 Sportz Plus BSIV,"71,000",Petrol,Manual,6.50,"Makarba, Ahmedabad"
+2022,Hyundai Creta SX Opt Diesel AT BSVI,"45,000",Diesel,Automatic,16.75,"Gota, Ahmedabad"
+2015,Hyundai Grand i10 Magna,"29,000",Petrol,Manual,4.50,"Makarba, Ahmedabad"
+2020,Toyota Innova Crysta 2.4 VX 7 STR,"55,000",Diesel,Manual,20.95,"Makarba, Ahmedabad"
+2022,Tata Tigor XZ CNG BSVI,"25,152",CNG,Manual,7.75,"Naranpura, Ahmedabad"
+2014,Honda City i VTEC V,"25,000",Petrol,Manual,4.95,"Makarba, Ahmedabad"
+2015,Volvo XC60 D4 SUMMUM,"74,000",Diesel,Automatic,9.95,"Makarba, Ahmedabad"
+2018,Renault KWID 1.0 AMT RXT,"42,386",Petrol,Automatic,3.29,"Gota, Ahmedabad"
+2020,Hyundai Grand i10 Nios Sportz,"52,000",Petrol,Manual,6.15,"Makarba, Ahmedabad"
+2015,Honda Amaze S i-Vtech,"59,214",Petrol,Manual,3.67,"Naroda, Ahmedabad"
+2019,Toyota Innova Crysta 2.4 GX MT BSIV,"95,000",Diesel,Manual,17.99,"Naranpura, Ahmedabad"
+2016,Nissan Micra XV CVT,"66,000",Petrol,Automatic,3.95,"Makarba, Ahmedabad"
+2022,Maruti Alto 800 VXI,"11,360",Petrol,Manual,3.94,"Gota, Ahmedabad"
+2021,Maruti Alto 800 VXI,"17,598",Petrol,Manual,3.72,"Gota, Ahmedabad"
+2023,Hyundai Verna SX,"12,000",Petrol,Manual,13.90,"Makarba, Ahmedabad"
+2022,Maruti Alto 800 VXI,"17,020",Petrol,Manual,3.51,"Gota, Ahmedabad"
+2020,Mahindra XUV300 W8 BSVI,"89,000",Petrol,Manual,8.75,"Makarba, Ahmedabad"
+2020,Renault Triber RXT BSIV,"76,500",Petrol,Manual,4.45,"Vasna, Ahmedabad"
+2017,Renault Triber RXZ Dual Tone,"34,977",Petrol,Manual,5.46,"Gota, Ahmedabad"
+2012,Hyundai i20 Era Petrol,"50,143",Petrol,Manual,2.38,"Gota, Ahmedabad"
+2013,Maruti Alto 800 LXi,"39,290",Petrol,Manual,2.19,"Gota, Ahmedabad"
+2021,Maruti Alto 800 LXi,"26,459",Petrol,Manual,3.41,"Gota, Ahmedabad"
+2018,Maruti Ignis 1.2 AMT Delta BSIV,"82,000",Petrol,Automatic,4.40,"Makarba, Ahmedabad"
+2022,Maruti Wagon R LXI BSVI,"42,108",Petrol,Manual,4.65,"Mumatpura, Ahmedabad"
+2015,Volkswagen Polo GT TSI,"74,000",Petrol,Automatic,5.90,"Makarba, Ahmedabad"
+2016,Maruti Alto 800 LXi,"41,037",Petrol,Manual,2.67,"Gota, Ahmedabad"
+2019,Nissan Kicks Diesel,"81,288",Diesel,Manual,7.07,"Gota, Ahmedabad"
+2014,Hyundai Grand i10 Sportz,"72,466",Petrol,Manual,3.61,"Mumatpura, Ahmedabad"
+2019,Tata Nexon XZA Plus (O) AMT Diesel,"1,22,002",Diesel,Automatic,6.22,"Gota, Ahmedabad"
+2016,Maruti S Cross DDiS 200 Zeta,"48,000",Diesel,Manual,6.25,"Makarba, Ahmedabad"
+2019,Maruti Alto 800 LXi,"25,291",Petrol,Manual,3.21,"Gota, Ahmedabad"
+2011,Honda City 1.5 S MT,"76,000",Petrol,Manual,3.50,"Makarba, Ahmedabad"
+2017,Honda City i VTEC VX,"61,000",Petrol,Manual,6.95,"Makarba, Ahmedabad"
+2020,Hyundai Grand i10 1.2 Kappa Sportz BSIV,"30,232",Petrol,Manual,5.81,"Gota, Ahmedabad"
+2013,Maruti Swift Dzire ZXI,"69,000",Petrol,Manual,3.75,"Abasana, Ahmedabad"
+2020,Skoda Rapid 1.0 TSI Ambition AT,"56,812",Petrol,Automatic,6.41,"Mumatpura, Ahmedabad"
+2016,Maruti Swift Dzire VDI,"75,000",Diesel,Manual,4.99,"Naranpura, Ahmedabad"
+2020,Hyundai Grand i10 1.2 Kappa Magna BSIV,"33,201",Petrol,Manual,5.45,"Gota, Ahmedabad"
+2019,Hyundai i20 Asta 1.2,"21,336",Petrol,Manual,6.74,"Gota, Ahmedabad"
+2018,Hyundai Grand i10 1.2 Kappa Sportz BSIV,"32,940",Petrol,Manual,5.01,"Gota, Ahmedabad"
+2015,Hyundai EON Magna,"30,916",Petrol,Manual,3.01,"Gota, Ahmedabad"
+2020,Maruti Baleno Alpha Diesel,"51,761",Diesel,Manual,6.58,"Gota, Ahmedabad"
+2016,Maruti Wagon R VXI BS IV,"57,229",Petrol,Manual,3.02,"Naroda, Ahmedabad"
+2013,Maruti Alto 800 LXi,"49,071",Petrol,Manual,2.21,"Gota, Ahmedabad"
+2014,Maruti Wagon R LXI,"30,852",Petrol,Manual,2.82,"Gota, Ahmedabad"
+2016,Maruti Baleno 1.2 Zeta,"79,197",Petrol,Manual,4.22,"Naroda, Ahmedabad"
+2013,Hyundai i10 Era,"41,000",Petrol,Manual,2.60,"Makarba, Ahmedabad"
+2022,Maruti Alto 800 LXi,"27,978",Petrol,Manual,3.59,"Gota, Ahmedabad"
+2017,Hyundai Grand i10 Sportz,"67,000",Petrol,Manual,4.30,"Naranpura, Ahmedabad"
+2017,Maruti Baleno 1.2 Delta,"62,000",Petrol,Manual,5.25,"Naranpura Vistar, Ahmedabad"
+2023,Maruti Wagon R LXI,"7,735",Petrol,Manual,5.40,"Mumatpura, Ahmedabad"
+2018,Hyundai Grand i10 1.2 Kappa Magna BSIV,"13,916",Petrol,Manual,4.31,"Gota, Ahmedabad"
+2021,Maruti S Cross Zeta,"37,566",Petrol,Manual,8.04,"Gota, Ahmedabad"
+2014,Mahindra XUV500 W8 2WD,"71,000",Diesel,Manual,6.50,"Makarba, Ahmedabad"
+2017,Maruti Ignis Zeta,"70,005",Petrol,Manual,4.10,"Gota, Ahmedabad"
+2014,Hyundai Grand i10 Asta,"44,871",Petrol,Manual,3.75,"Naroda, Ahmedabad"
+2018,Maruti Alto K10 VXI,"32,208",Petrol,Manual,2.95,"Naroda, Ahmedabad"
+2021,Maruti Baleno Delta Diesel,"38,186",Diesel,Manual,5.67,"Gota, Ahmedabad"
+2015,Hyundai Grand i10 1.2 Kappa Sportz BSIV,"40,099",Petrol,Manual,4.47,"Gota, Ahmedabad"
+2014,Hyundai i20 Asta 1.2,"65,000",Petrol,Manual,4.65,"Makarba, Ahmedabad"
+2017,Hyundai i20 1.2 Magna Executive,"38,093",Petrol,Manual,4.92,"Gota, Ahmedabad"
+2018,Hyundai Grand i10 1.2 Kappa Sportz BSIV,"56,108",Petrol,Manual,5.38,"Gota, Ahmedabad"
+2019,Volkswagen Ameo 1.0 MPI Trendline,"59,120",Petrol,Manual,5.10,"Mumatpura, Ahmedabad"
+2020,Maruti Vitara Brezza VXI AT,"53,636",Petrol,Automatic,6.68,"Naroda, Ahmedabad"
+2017,Maruti Alto 800 LXi,"57,437",Petrol,Manual,2.60,"Gota, Ahmedabad"
+2018,Maruti Baleno Alpha Diesel,"1,13,606",Diesel,Manual,5.51,"Gota, Ahmedabad"
+2016,Maruti Alto 800 VXI,"1,06,320",Petrol,Manual,2.45,"Gota, Ahmedabad"
+2021,Maruti Baleno Delta,"53,071",Petrol,Manual,5.59,"Naroda, Ahmedabad"
+2016,Volkswagen Polo 1.2 MPI Highline,"55,515",Petrol,Manual,4.11,"Naroda, Ahmedabad"
+2017,Jeep Compass 2.0 Longitude BSIV,"66,000",Diesel,Manual,7.50,"Makarba, Ahmedabad"
+2017,Hyundai EON Magna,"84,542",Petrol,Manual,2.84,"Gota, Ahmedabad"
+2012,Honda Brio S MT,"46,702",Petrol,Manual,2.73,"Gota, Ahmedabad"
+2015,Renault Lodgy 110PS RxZ 7 Seater,"72,000",Diesel,Manual,5.25,"Naranpura, Ahmedabad"
+2016,Honda Jazz V,"78,244",Petrol,Manual,4.49,"Gota, Ahmedabad"
+2018,Maruti Wagon R LXI CNG,"98,445",CNG,Manual,3.87,"Gota, Ahmedabad"
+2021,Maruti Alto 800 VXI,"39,603",Petrol,Manual,3.39,"Gota, Ahmedabad"
+2018,Hyundai Grand i10 1.2 Kappa Magna BSIV,"24,130",Petrol,Manual,4.70,"Gota, Ahmedabad"
+2016,Ford Ecosport 1.5 Ti VCT MT Ambiente BSIV,"36,000",Petrol,Manual,4.25,"Bopal, Ahmedabad"
+2015,Honda Brio E MT,"53,000",Petrol,Manual,2.95,"Makarba, Ahmedabad"
+2012,Maruti Swift Dzire VXI,"99,495",Petrol,Manual,3.27,"Gota, Ahmedabad"
+2017,Honda Brio S MT,"45,301",Petrol,Manual,3.59,"Gota, Ahmedabad"
+2013,Hyundai i10 Magna 1.1,"63,764",Petrol,Manual,2.46,"Gota, Ahmedabad"
+2017,Hyundai i20 Asta 1.2,"70,557",Petrol,Manual,5.52,"Gota, Ahmedabad"
+2015,Volkswagen Vento 1.5 TDI Comfortline AT,"62,000",Diesel,Automatic,5.25,"Naranpura Vistar, Ahmedabad"
+2020,Kia Carnival Prestige 6 STR,"98,000",Diesel,Automatic,20.75,"Makarba, Ahmedabad"
+2018,Maruti Celerio X AMT ZXI BSIV,"56,217",Petrol,Automatic,3.83,"Mumatpura, Ahmedabad"
+2016,Renault KWID RXT,"33,038",Petrol,Manual,2.55,"Gota, Ahmedabad"
+2020,Honda Amaze VX i-VTEC,"40,717",Petrol,Manual,6.82,"Gota, Ahmedabad"
+2021,Maruti S Cross Zeta,"37,918",Petrol,Manual,7.80,"Gota, Ahmedabad"
+2017,Ford Ecosport 1.5 Diesel Titanium BSIV,"73,000",Diesel,Manual,3.99,"Naranpura, Ahmedabad"
+2021,Honda Jazz ZX,"16,535",Petrol,Manual,7.41,"Gota, Ahmedabad"
+2016,Hyundai Grand i10 Sportz,"52,000",Petrol,Manual,4.40,"Naranpura, Ahmedabad"
+2019,Ford Aspire 1.2 Ti-VCT Titanium,"56,215",Petrol,Manual,4.70,"Gota, Ahmedabad"
+2015,Hyundai Grand i10 AT Asta,"56,000",Petrol,Automatic,4.50,"Naranpura, Ahmedabad"
+2013,Hyundai Grand i10 CRDi Magna,"75,000",Diesel,Manual,3.60,"Makarba, Ahmedabad"
+2017,Hyundai Grand i10 1.2 Kappa Sportz BSIV,"79,518",Petrol,Manual,3.95,"Naroda, Ahmedabad"
+2016,Honda Jazz 1.5 VX i DTEC,"94,000",Diesel,Manual,3.29,"Ambawadi, Ahmedabad"
+2015,Hyundai i20 Asta 1.2,"49,979",Petrol,Manual,4.88,"Gota, Ahmedabad"
+2018,Maruti Wagon R VXI 1.2,"10,506",Petrol,Manual,4.01,"Gota, Ahmedabad"
+2015,Honda Amaze S i-Vtech,"68,487",Petrol,Manual,3.60,"Naroda, Ahmedabad"
+2017,Maruti Baleno 1.3 Delta,"77,396",Diesel,Manual,4.95,"Mumatpura, Ahmedabad"
+2021,Hyundai Santro Sportz,"29,735",Petrol,Manual,4.54,"Naroda, Ahmedabad"
+2017,Hyundai Creta 1.6 VTVT AT SX Plus,"59,000",Petrol,Automatic,8.90,"Naranpura, Ahmedabad"
+2019,Renault Triber RXZ,"45,778",Petrol,Manual,5.68,"Mumatpura, Ahmedabad"
+2014,Hyundai Santro Xing GL,"75,000",Petrol,Manual,2.15,Ahmedabad
+2017,Ford Ecosport 1.5 Petrol Titanium BSIV,"48,000",Petrol,Manual,6.50,"Naranpura, Ahmedabad"
+2019,Maruti Wagon R AMT VXI,"68,000",Petrol,Automatic,4.90,"Naranpura, Ahmedabad"
+2018,Maruti Alto 800 LXi,"86,461",Petrol,Manual,2.76,"Gota, Ahmedabad"
+2021,Hyundai i20 N-Line N8 iMT Dual tone,"13,437",Petrol,Manual,8.13,"Gota, Ahmedabad"
+2021,Hyundai Venue SX Diesel,"36,000",Diesel,Manual,10.50,"Naranpura, Ahmedabad"
+2015,Mahindra XUV500 W6 2WD,"63,000",Diesel,Manual,6.51,"Naranpura Vistar, Ahmedabad"
+2022,Honda WR-V VX,"18,000",Petrol,Manual,8.90,"Naranpura, Ahmedabad"
+2017,Maruti Ignis 1.2 AMT Delta BSIV,"72,359",Petrol,Automatic,3.76,"Mumatpura, Ahmedabad"
+2021,Maruti Ciaz Petrol,"39,486",Diesel,Manual,8.21,"Gota, Ahmedabad"
+2017,Maruti Alto K10 VXI AGS Optional,"59,369",Petrol,Automatic,2.93,"Naroda, Ahmedabad"
+2017,Hyundai Grand i10 Magna,"62,000",Petrol,Manual,3.60,"Sardarnagar, Ahmedabad"
+2016,Hyundai Grand i10 1.2 Kappa Magna BSIV,"30,714",Petrol,Manual,3.65,"Gota, Ahmedabad"
+2018,Hyundai Grand i10 1.2 Kappa Sportz BSIV,"77,163",Petrol,Manual,4.36,"Gota, Ahmedabad"
+2022,Honda Jazz ZX,"32,714",Petrol,Manual,7.99,"Gota, Ahmedabad"
+2013,Hyundai Grand i10 1.2 Kappa Sportz BSIV,"97,500",Petrol,Manual,3.33,"Gota, Ahmedabad"
+2019,Hyundai Grand i10 1.2 Kappa Sportz BSIV,"48,887",Petrol,Manual,5.76,"Gota, Ahmedabad"
+2017,Hyundai i20 Asta 1.2,"76,000",Petrol,Manual,5.75,"Naranpura, Ahmedabad"
+2017,Maruti Wagon R VXI 1.2,"27,626",Petrol,Manual,3.77,"Gota, Ahmedabad"
+2016,Tata Zest Revotron 1.2T XM,"91,000",Petrol,Manual,3.75,"Makarba, Ahmedabad"
+2020,Hyundai Santro Era Executive,"45,963",Petrol,Manual,4.10,"Gota, Ahmedabad"
+2019,Hyundai Grand i10 1.2 Kappa Sportz BSIV,"70,324",Petrol,Manual,5.11,"Gota, Ahmedabad"
+2022,Tata Tigor 1.2 Revotron XZA,"20,015",Petrol,Automatic,7,"Gota, Ahmedabad"
+2020,Maruti Ciaz Alpha BSVI,"89,000",Petrol,Manual,7.25,"Makarba, Ahmedabad"
+2014,Maruti Wagon R LXI,"58,279",Petrol,Manual,2.81,"Gota, Ahmedabad"
+2020,Ford Ecosport Sports Petrol,"88,643",Petrol,Manual,6.53,"Gota, Ahmedabad"
+2017,Honda WR-V Exclusive Petrol,"81,409",Petrol,Manual,4.83,"Gota, Ahmedabad"
+2017,Volkswagen Vento 1.5 TDI Highline AT,"1,27,000",Diesel,Automatic,7,"Gota, Ahmedabad"
+2020,Maruti Vitara Brezza ZXI Plus AT,"66,690",Petrol,Automatic,8.24,"Gota, Ahmedabad"
+2017,Hyundai i20 Asta 1.2,"45,600",Petrol,Manual,5.45,"Naranpura, Ahmedabad"
+2018,Hyundai Grand i10 1.2 Kappa Sportz BSIV,"76,927",Petrol,Manual,4.55,"Gota, Ahmedabad"
+2022,Maruti Baleno Zeta Diesel,"15,502",Diesel,Manual,7.25,"Gota, Ahmedabad"
+2015,Hyundai i20 Asta 1.2,"91,817",Petrol,Manual,3.70,"Mumatpura, Ahmedabad"
+2014,Maruti Wagon R VXI BS IV,"71,596",Petrol,Manual,2.91,"Naroda, Ahmedabad"
+2015,Hyundai Grand i10 Magna,"61,390",Petrol,Manual,3.63,"Naroda, Ahmedabad"
+2015,Hyundai Xcent 1.2 Kappa S Option,"68,678",Petrol,Manual,3.80,"Naroda, Ahmedabad"
+2016,Honda Amaze SX i VTEC,"55,884",Petrol,Manual,4.31,"Gota, Ahmedabad"
+2017,Hyundai Grand i10 1.2 Kappa Sportz BSIV,"76,987",Petrol,Manual,4.32,"Mumatpura, Ahmedabad"
+2021,Tata Safari XZA Plus (O) 6Str AT,"37,699",Diesel,Automatic,17.61,"Gota, Ahmedabad"
+2016,Honda Amaze VX i-Vtech,"93,191",Petrol,Manual,3.51,"Mumatpura, Ahmedabad"
+2021,Hyundai Venue S Diesel,"84,000",Diesel,Manual,8.65,"Bopal, Ahmedabad"
+2019,Tata Harrier XT BSIV,"38,000",Diesel,Manual,10.75,"Makarba, Ahmedabad"
+2012,Hyundai Verna 1.6 CRDi SX Opt,"83,359",Diesel,Manual,4.21,"Gota, Ahmedabad"
+2021,Renault Triber RXL BSVI,"44,496",Petrol,Manual,4.78,"Mumatpura, Ahmedabad"
+2021,Maruti Baleno Zeta Diesel,"26,224",Diesel,Manual,6.46,"Gota, Ahmedabad"
+2013,Hyundai i20 Sportz 1.2,"84,632",Petrol,Manual,2.89,"Naroda, Ahmedabad"
+2014,Maruti Wagon R LXI,"69,026",Petrol,Manual,2.61,"Gota, Ahmedabad"
+2018,Maruti Baleno Zeta Diesel,"37,435",Diesel,Manual,5.65,"Gota, Ahmedabad"
+2017,Volkswagen Polo GT TSI,"51,000",Petrol,Automatic,5.25,"Sardarnagar, Ahmedabad"
+2020,Maruti Wagon R VXI 1.2,"45,060",Petrol,Manual,4.69,"Gota, Ahmedabad"
+2022,Tata Altroz XZ,"65,500",Petrol,Manual,7.08,"Gota, Ahmedabad"
+2015,Honda City VX MT,"37,365",Petrol,Manual,5.97,"Gota, Ahmedabad"
+2015,Honda Amaze S i-Vtech,"98,850",Petrol,Manual,3.62,"Naroda, Ahmedabad"
+2016,Honda Jazz 1.2 SV i VTEC,"62,000",Petrol,Manual,4.25,"Naranpura, Ahmedabad"
+2019,Renault Duster Petrol RXS CVT,"72,132",Petrol,Automatic,6.44,"Naroda, Ahmedabad"
+2016,Hyundai Verna 1.6 CRDi SX,"1,20,633",Diesel,Manual,6.31,"Gota, Ahmedabad"
+2018,Maruti Wagon R VXI 1.2,"35,909",Petrol,Manual,4.05,"Gota, Ahmedabad"
+2016,Maruti Baleno Zeta Diesel,"32,543",Diesel,Manual,5.11,"Gota, Ahmedabad"
+2020,Hyundai Aura S,"47,660",Petrol,Manual,5.58,"Mumatpura, Ahmedabad"
+2019,Maruti Ciaz Petrol,"91,837",Diesel,Manual,6.23,"Gota, Ahmedabad"
+2020,Maruti Baleno Delta,"48,865",Petrol,Manual,5.06,"Mumatpura, Ahmedabad"
+2014,Maruti Swift Dzire VXI,"90,278",Petrol,Manual,3.69,"Mumatpura, Ahmedabad"
+2016,Ford Ecosport 1.5 Ti VCT MT Titanium,"68,955",Petrol,Manual,5.27,"Gota, Ahmedabad"
+2015,Hyundai i20 Asta 1.2,"67,093",Petrol,Manual,4.92,"Gota, Ahmedabad"
+2022,Honda City ZX MT,"53,883",Petrol,Manual,11.57,"Gota, Ahmedabad"
+2018,Maruti Ignis 1.3 Delta,"64,000",Diesel,Manual,4.50,"Naranpura Vistar, Ahmedabad"
+2013,Hyundai i20 Sportz 1.4 CRDi,"1,19,400",Diesel,Manual,2.90,"Vasna, Ahmedabad"
+2022,Audi A4 Premium Plus,"48,214",Petrol,Automatic,31.50,"Bhadaj, Ahmedabad"
+2020,Ford Freestyle Titanium,"1,11,795",Petrol,Manual,4.87,"Gota, Ahmedabad"
+2020,Maruti Baleno Zeta,"94,093",Petrol,Manual,5.52,"Naroda, Ahmedabad"
+2017,Hyundai Grand i10 1.2 Kappa Asta,"39,862",Petrol,Manual,4.53,"Naroda, Ahmedabad"
+2014,Hyundai EON D Lite Plus,"33,000",Petrol,Manual,2.25,"Naranpura, Ahmedabad"
+2021,Hyundai Grand i10 Nios Sportz,"40,227",Petrol,Manual,5.56,"Mumatpura, Ahmedabad"
+2021,Hyundai i20 N-Line N8 DCT BSVI,"44,500",Petrol,Automatic,11.50,"Paldi, Ahmedabad"
+2015,Hyundai Grand i10 1.2 Kappa Magna BSIV,"80,847",Petrol,Manual,3.67,"Gota, Ahmedabad"
+2015,Honda City i VTEC V,"73,298",Petrol,Manual,4.62,"Naroda, Ahmedabad"
+2021,Kia Sonet HTK Plus Turbo iMT BSVI,"43,080",Petrol,Manual,7.27,"Mumatpura, Ahmedabad"
+2021,Toyota Urban cruiser Premium AT,"50,000",Petrol,Automatic,9.51,"Naranpura Vistar, Ahmedabad"
+2021,Volkswagen Vento 1.0 TSI Highline Plus AT,"45,212",Petrol,Automatic,7.89,"Naroda, Ahmedabad"
+2017,Hyundai i10 Sportz Option,"70,000",Petrol,Manual,4.90,"Bopal, Ahmedabad"
+2015,Hyundai Grand i10 1.2 CRDi Sportz,"65,980",Diesel,Manual,3.55,"Gota, Ahmedabad"
+2019,Audi A4 35 TDI Premium Plus,"51,000",Diesel,Automatic,26,"Paldi, Ahmedabad"
+2015,Maruti Wagon R VXI 1.2,"1,09,064",Petrol,Manual,2.92,"Gota, Ahmedabad"
+2015,Honda Amaze S i-VTEC,"1,02,229",Petrol,Manual,3.81,"Gota, Ahmedabad"
+2019,Ford Freestyle Titanium,"69,834",Petrol,Manual,4.81,"Gota, Ahmedabad"
+2016,Maruti Ciaz ZXi,"93,848",Petrol,Manual,5.05,"Gota, Ahmedabad"
+2019,Hyundai Santro Sportz,"28,403",Petrol,Manual,4.52,"Gota, Ahmedabad"
+2019,Hyundai Verna SX IVT Opt,"65,886",Petrol,Automatic,8.75,"Naroda, Ahmedabad"
+2022,Mahindra XUV300 W8 Option Diesel BSVI,"63,000",Diesel,Manual,10.25,"Ghatlodia, Ahmedabad"
+2012,Toyota Corolla Altis G AT,"80,000",Petrol,Automatic,5.50,"Paldi, Ahmedabad"
+2016,Maruti Baleno 1.2 Delta,"60,891",Petrol,Manual,4.12,"Mumatpura, Ahmedabad"
+2016,Hyundai Grand i10 Sportz,"42,000",Petrol,Manual,4.50,"Naranpura Vistar, Ahmedabad"
+2021,Maruti Baleno 1.2 Zeta,"77,000",Petrol,Manual,6.50,"Naranpura Vistar, Ahmedabad"
+2012,Maruti Wagon R VXI BS IV,"1,02,000",Petrol,Manual,2.25,"Vasna, Ahmedabad"
+2014,Ford Ecosport 1.5 TDCi Trend BSIV,"1,04,513",Diesel,Manual,4.17,"Gota, Ahmedabad"
+2021,Tata Tigor XZ BSVI,"61,000",Petrol,Manual,7.50,"Abasana, Ahmedabad"
+2020,Volkswagen Polo 1.0 MPI Highline,"53,643",Petrol,Manual,5.65,"Gota, Ahmedabad"
+2018,Hyundai Grand i10 1.2 Kappa Magna AT,"51,000",Petrol,Automatic,5.20,"Ghodasar, Ahmedabad"
+2022,Hyundai Verna SX IVT,"50,000",Petrol,Automatic,11.50,"Bopal, Ahmedabad"
+2019,Hyundai Santro Sportz CNG,"90,083",CNG,Manual,4.52,"Gota, Ahmedabad"
+2017,Tata Safari DICOR 2.2 EX 4x2 BS IV,"69,000",Diesel,Manual,8.11,"Ghatlodia, Ahmedabad"
+2022,Kia Sonet GTX Plus Diesel BSVI,"65,000",Diesel,Manual,11.90,"Makarba, Ahmedabad"
+2021,Maruti Wagon R VXI,"87,000",Petrol,Manual,4.60,"Naranpura, Ahmedabad"
+2021,Maruti S-Presso VXI,"9,787",Petrol,Manual,4.37,"Gota, Ahmedabad"
+2015,Hyundai i20 Asta 1.2,"1,07,724",Petrol,Manual,4.08,"Mumatpura, Ahmedabad"
+2016,Honda Amaze VX i-Vtech,"90,925",Petrol,Manual,4.51,"Mumatpura, Ahmedabad"
+2016,Hyundai Verna 1.6 SX CRDI (O) AT,"1,00,914",Diesel,Automatic,5.26,"Gota, Ahmedabad"
+2017,Maruti Wagon R VXI Optional,"68,000",Petrol,Manual,3.75,"Bopal, Ahmedabad"
+2015,Maruti Swift Dzire VXI,"71,456",Petrol,Manual,4.40,"Krishnanagar, Ahmedabad"
+2014,Nissan Sunny Diesel XV,"96,042",Diesel,Manual,3.45,"Ambawadi, Ahmedabad"
+2012,Hyundai i10 Era,"78,400",Petrol,Manual,2.30,"Vasna, Ahmedabad"
+2018,Audi A6 35 TDI,"48,091",Diesel,Automatic,31.50,"Bhadaj, Ahmedabad"
+2018,Maruti Ciaz Delta Diesel,"70,497",Diesel,Automatic,5.61,"Gota, Ahmedabad"
+2015,Ford Ecosport 1.5 Ti VCT MT Titanium,"51,000",Petrol,Manual,4.50,"Sardarnagar, Ahmedabad"
+2015,Maruti Swift Dzire VDI,"99,695",Diesel,Manual,4.77,"Naroda, Ahmedabad"
+2017,Hyundai i20 Asta 1.2,"53,331",Petrol,Manual,4.88,"Mumatpura, Ahmedabad"
+2013,Honda Brio S MT,"58,000",Petrol,Manual,3.25,"Ghodasar, Ahmedabad"
+2016,Ford Ecosport 1.5 TDCi Titanium BSIV,"70,926",Diesel,Manual,5.15,"Naroda, Ahmedabad"
+2015,Honda Amaze S i-Dtech,"90,000",Diesel,Manual,4.50,"Ambli, Ahmedabad"
+2019,Skoda Rapid 1.6 MPI Ambition BSIV,"78,986",Petrol,Manual,5.87,"Mumatpura, Ahmedabad"
+2017,Maruti Baleno 1.3 Zeta,"83,981",Diesel,Manual,5.05,"Mumatpura, Ahmedabad"
+2015,Skoda Octavia Elegance 2.0 TDI AT,"1,07,308",Diesel,Automatic,9.08,"Gota, Ahmedabad"
+2014,Honda Brio S MT,"1,14,969",Petrol,Manual,2.83,"Naroda, Ahmedabad"
+2017,Maruti Baleno 1.2 Alpha,"78,000",Petrol,Manual,5.95,"Naranpura Vistar, Ahmedabad"
+2011,Audi A7 3.0 TDI Quattro,"1,42,000",Diesel,Automatic,11.55,"Navrangpura, Ahmedabad"
+2018,Nissan Micra Active XV,"49,000",Petrol,Manual,3.75,"Naranpura, Ahmedabad"
+2018,Toyota Innova Crysta 2.4 VX MT 8 STR,"78,000",Diesel,Manual,18.11,"Ghatlodia, Ahmedabad"
+2014,BMW 5 Series 520d Modern Line,"62,900",Diesel,Automatic,16.75,"Ghatlodia, Ahmedabad"
+2016,Honda Jazz 1.2 VX i VTEC,"36,000",Petrol,Manual,5.25,"Paldi, Ahmedabad"
+2017,Hyundai Grand i10 Sportz,"54,000",Petrol,Manual,4.50,"Abasana, Ahmedabad"
+2017,Hyundai Grand i10 1.2 Kappa Magna AT,"47,001",Petrol,Automatic,4.75,"Ambli, Ahmedabad"
+2015,Hyundai Xcent 1.2 Kappa SX,"90,000",Petrol,Manual,3.90,"Bopal, Ahmedabad"
+2017,Jeep Compass 1.4 Limited,"28,000",Petrol,Automatic,10.75,"Makarba, Ahmedabad"
+2014,Chevrolet Enjoy TCDi LTZ 7 Seater,"88,000",Diesel,Manual,3.30,"Ghodasar, Ahmedabad"
+2020,Maruti S-Presso VXI,"59,069",Petrol,Manual,3.41,"Gota, Ahmedabad"
+2015,Honda City i VTEC CVT VX,"82,000",Petrol,Automatic,4.25,Ahmedabad
+2022,Maruti Baleno Alpha,"38,680",Petrol,Manual,7.20,"Mumatpura, Ahmedabad"
+2022,Skoda Slavia 1.0 TSI Style AT BSVI,"44,000",Petrol,Automatic,12.95,"Makarba, Ahmedabad"
+2014,Hyundai i20 Sportz Petrol,"40,823",Petrol,Manual,3.35,"Gota, Ahmedabad"
+2015,Honda Amaze 2nd Gen VX,"52,034",Petrol,Manual,4.29,"Gota, Ahmedabad"
+2017,Renault KWID Climber 1.0 MT,"56,586",Petrol,Manual,2.78,"Gota, Ahmedabad"
+2020,Kia Seltos HTK Diesel,"68,500",Diesel,Manual,9.75,"Vasna, Ahmedabad"
+2014,Hyundai i10 Sportz,"68,000",Petrol,Manual,3.50,"Naranpura, Ahmedabad"
+2015,Honda Jazz 1.2 S i VTEC,"79,000",Petrol,Manual,3.60,"Makarba, Ahmedabad"
+2015,Hyundai i20 Sportz 1.2,"32,810",Petrol,Manual,4.25,"Naroda, Ahmedabad"
+2022,MG Astor Sharp EX BSVI,"18,961",Petrol,Manual,11.02,"Gota, Ahmedabad"
+2015,Maruti Wagon R VXI BS IV,"24,257",Petrol,Manual,3.37,"Naroda, Ahmedabad"
+2021,Renault KWID RXT,"20,524",Petrol,Manual,4,"Gota, Ahmedabad"
+2012,Hyundai i10 Magna,"49,000",Petrol,Manual,2.45,"Naranpura, Ahmedabad"
+2019,Honda Amaze V CVT Petrol,"47,970",Petrol,Automatic,6.47,"Gota, Ahmedabad"
+2017,Tata Nexon XZ Plus (O) Diesel,"48,355",Diesel,Manual,5.82,"Gota, Ahmedabad"
+2022,Maruti XL6 Alpha,"78,878",Petrol,Manual,8.61,"Mumatpura, Ahmedabad"
+2017,Hyundai EON Era,"37,577",Petrol,Manual,2.74,"Gota, Ahmedabad"
+2015,Honda Amaze S i-Vtech,"26,000",Petrol,Manual,4.25,"Makarba, Ahmedabad"
+2015,Maruti Wagon R LXI CNG,"77,716",CNG,Manual,3.07,"Gota, Ahmedabad"
+2020,Maruti Celerio VXi AMT,"33,000",Petrol,Automatic,4.50,"Naranpura, Ahmedabad"
+2022,Maruti Brezza Zxi,"14,320",Petrol,Manual,9.73,"Gota, Ahmedabad"
+2018,Hyundai Tucson 2.0 e-VGT 2WD AT GL,"74,000",Diesel,Automatic,9.50,"Makarba, Ahmedabad"
+2022,Hyundai Venue SX Plus Turbo DCT,"22,239",Petrol,Automatic,9.31,"Gota, Ahmedabad"
+2014,Renault Duster 110PS Diesel RxL,"61,000",Diesel,Manual,4.11,"Naranpura Vistar, Ahmedabad"
+2015,Hyundai Grand i10 Sportz,"85,100",Petrol,Manual,4.25,"Ctm Char Rasta, Ahmedabad"
+2021,Hyundai Grand i10 1.2 Kappa Magna BSIV,"27,069",Petrol,Manual,5.33,"Gota, Ahmedabad"
+2019,Kia Seltos HTX Plus AT D,"90,000",Diesel,Automatic,11.90,"Makarba, Ahmedabad"
+2019,Maruti Alto 800 LXI BSIV,"41,000",Petrol,Manual,3.25,"Bopal, Ahmedabad"
+2017,Honda City i-VTEC CVT ZX,"34,000",Petrol,Automatic,8.50,"Naranpura, Ahmedabad"
+2021,Maruti Swift VXI,"22,000",Petrol,Manual,5.75,"Naranpura Vistar, Ahmedabad"
+2021,Skoda Kushaq 1.0 TSI Style 4 Airbags AT,"13,500",Petrol,Automatic,14.51,"Ambli, Ahmedabad"
+2024,MG Astor Sharp Pro CVT,"1,800",Petrol,Automatic,14.90,"Makarba, Ahmedabad"
+2013,Hyundai i20 Era Petrol,"58,540",Petrol,Manual,2.41,"Gota, Ahmedabad"
+2015,Hyundai EON D Lite,"33,452",Petrol,Manual,2.12,"Ambawadi, Ahmedabad"
+2017,Maruti Wagon R AMT VXI,"12,849",Petrol,Automatic,3.99,"Naroda, Ahmedabad"
+2022,Hyundai Santro Sportz Executive CNG,"26,010",CNG,Manual,5.81,"Gota, Ahmedabad"
+2019,Maruti Ertiga BSIV ZXI Plus,"23,000",Petrol,Manual,8.95,"Makarba, Ahmedabad"
+2012,Toyota Etios V,"64,000",Petrol,Manual,3.40,"Makarba, Ahmedabad"
+2014,Maruti Swift VXI,"81,732",Petrol,Manual,3.49,"Gota, Ahmedabad"
+2022,Maruti Alto 800 LXi,"9,759",Petrol,Manual,3.73,"Gota, Ahmedabad"
+2018,Hyundai Grand i10 1.2 Kappa Sportz BSIV,"28,615",Petrol,Manual,4.79,"Gota, Ahmedabad"
+2014,Toyota Etios Liva V,"75,000",Petrol,Manual,3.95,"Makarba, Ahmedabad"
+2016,Hyundai Xcent 1.2 Kappa S,"76,000",Petrol,Manual,3.95,"Makarba, Ahmedabad"
+2020,MG Hector Sharp DCT,"50,184",Petrol,Automatic,11.27,"Mumatpura, Ahmedabad"
+2014,Hyundai i10 Sportz 1.1L,"58,600",Petrol,Manual,3.15,"Naranpura, Ahmedabad"
+2022,Maruti Ignis Delta,"14,044",Petrol,Manual,5.30,"Gota, Ahmedabad"
+2021,Maruti Swift VXI,"44,001",Petrol,Manual,5.90,"Naroda, Ahmedabad"
+2019,Hyundai Creta 1.6 SX Automatic,"48,000",Petrol,Automatic,9.90,"Makarba, Ahmedabad"
+2017,BMW X1 sDrive20d Expedition,"86,000",Diesel,Automatic,18.75,"Makarba, Ahmedabad"
+2012,Hyundai EON Era Plus,"33,000",Petrol,Manual,2.31,"Navrangpura, Ahmedabad"
+2017,Hyundai EON Magna,"63,303",Petrol,Manual,2.64,"Gota, Ahmedabad"
+2017,Maruti Alto 800 LXi,"22,274",Petrol,Manual,2.81,"Gota, Ahmedabad"
+2015,Maruti Wagon R VXI BS IV,"52,145",Petrol,Manual,3.22,"Naroda, Ahmedabad"
+2018,Maruti Celerio VXI CNG,"96,825",CNG,Manual,4,"Mumatpura, Ahmedabad"
+2017,Honda City i DTec V,"89,000",Diesel,Manual,6.75,"Makarba, Ahmedabad"
+2013,Nissan Micra Active XE,"34,063",Petrol,Manual,2.11,"Gota, Ahmedabad"
+2018,BMW 3 Series GT Luxury Line,"51,000",Diesel,Automatic,19.75,"Makarba, Ahmedabad"
+2015,Hyundai i20 Sportz 1.2,"43,226",Petrol,Manual,4.74,"Gota, Ahmedabad"
+2019,BMW X1 xDrive 20d xLine,"50,000",Diesel,Automatic,23.50,"Naranpura, Ahmedabad"
+2018,Datsun GO T,"36,631",Petrol,Manual,2.60,"Gota, Ahmedabad"
+2021,Maruti Celerio ZXI Plus AMT BSVI,"59,000",Petrol,Automatic,5.25,"Naranpura, Ahmedabad"
+2021,Hyundai i20 Asta Turbo DCT DT,"26,701",Petrol,Automatic,7.62,"Naroda, Ahmedabad"
+2018,Hyundai i20 1.2 Spotz,"58,726",Petrol,Manual,5.03,"Naroda, Ahmedabad"
+2018,Hyundai Creta 1.4 CRDi S,"1,09,000",Diesel,Manual,8.80,"Vastral, Ahmedabad"
+2016,Maruti Swift Dzire VXi AT,"50,767",Petrol,Automatic,4.93,"Gota, Ahmedabad"
+2017,Maruti Celerio ZXI,"71,621",Petrol,Manual,3.60,"Gota, Ahmedabad"
+2018,Land Rover Range Rover Evoque 2.0 TD4 HSE,"44,000",Diesel,Automatic,32,"Paldi, Ahmedabad"
+2021,Skoda Rapid 1.6 MPI Rider Edition,"34,060",Petrol,Manual,7.26,"Gota, Ahmedabad"
+2018,Maruti Celerio X ZXI,"53,897",Petrol,Manual,4.49,"Gota, Ahmedabad"
+2019,Hyundai Grand i10 1.2 Kappa Magna BSIV,"16,000",Petrol,Manual,5.75,"Naranpura, Ahmedabad"
+2015,Hyundai Grand i10 Magna,"55,000",Petrol,Manual,4,"Bopal, Ahmedabad"
+2017,Maruti Wagon R LXI CNG,"1,15,927",CNG,Manual,3.14,"Gota, Ahmedabad"
+2016,Datsun GO T,"52,365",Petrol,Manual,2.14,"Gota, Ahmedabad"
+2023,BMW X7 xDrive 40i M Sport,"49,000",Petrol,Automatic,95,"Ambli, Ahmedabad"
+2013,Audi A6 2.0 TDI,"39,000",Diesel,Automatic,13.95,"Makarba, Ahmedabad"
+2013,Hyundai i20 Magna,"42,088",Petrol,Manual,2.89,"Naroda, Ahmedabad"
+2015,Honda Jazz 1.2 SV i VTEC,"65,000",Petrol,Manual,4,"Vastral, Ahmedabad"
+2018,Renault KWID 1.0 RXT Opt,"71,418",Petrol,Manual,2.76,"Gota, Ahmedabad"
+2022,Maruti Alto 800 LXI BSIV,"30,000",Petrol,Manual,3.90,"Krishnanagar, Ahmedabad"
+2021,Tata Tigor 1.2 Revotron XZ,"39,300",Petrol,Manual,5.41,"Gota, Ahmedabad"
+2021,Mahindra XUV500 W7,"97,486",Diesel,Manual,9.74,"Gota, Ahmedabad"
+2019,Renault KWID RXL,"85,966",Petrol,Manual,2.41,"Gota, Ahmedabad"
+2022,Maruti Grand Vitara Alpha Plus Hybrid CVT,"47,942",Petrol,Automatic,13.05,"Gota, Ahmedabad"
+2021,Renault KWID Climber 1.0 MT Opt,"41,661",Petrol,Manual,4.21,"Gota, Ahmedabad"
+2023,Land Rover Range Rover Evoque 2.0 R-Dynamic SE Diesel,"33,000",Diesel,Automatic,58,"Ambli, Ahmedabad"
+2016,Honda City i VTEC SV,"57,000",Petrol,Manual,5.65,"Naranpura, Ahmedabad"
+2015,Maruti Celerio VXI AT,"75,000",Petrol,Automatic,3.50,"Gota, Ahmedabad"
+2022,Renault KWID 1.0 AMT RXT,"10,680",Petrol,Automatic,4.80,"Gota, Ahmedabad"
+2018,Renault KWID 1.0 RXT Optional,"45,000",Petrol,Manual,2.99,"Sardarnagar, Ahmedabad"
+2012,Maruti Wagon R LXI,"35,043",Petrol,Manual,2.34,"Gota, Ahmedabad"
+2024,Hyundai i20 Active SX Petrol,"9,379",Petrol,Manual,8.37,"Gota, Ahmedabad"
+2020,Maruti Vitara Brezza ZXI Plus AT,"49,300",Petrol,Automatic,8.58,"Gota, Ahmedabad"
+2022,Tata Tigor XZ Plus CNG BSVI,"38,254",CNG,Manual,6.50,"Mumatpura, Ahmedabad"
+2021,Mahindra XUV500 W9 AT,"28,641",Diesel,Automatic,13.60,"Gota, Ahmedabad"
+2015,Hyundai i20 Asta 1.2,"53,302",Petrol,Manual,5.34,"Gota, Ahmedabad"
+2022,Hyundai Venue S Plus Diesel BSVI,"46,000",Diesel,Manual,10.25,"Naranpura Vistar, Ahmedabad"
+2021,Tata Altroz XZ Diesel,"45,130",Diesel,Manual,6.75,"Mumatpura, Ahmedabad"
+2021,Tata Tiago XZA,"46,647",Petrol,Automatic,5.51,"Gota, Ahmedabad"
+2015,Maruti Swift VXI,"57,000",Petrol,Manual,4.25,"Naranpura, Ahmedabad"
+2018,Renault KWID RXT,"26,758",Petrol,Manual,3,"Gota, Ahmedabad"
+2021,Mahindra XUV500 W9 AT,"74,905",Diesel,Automatic,13.05,"Gota, Ahmedabad"
+2013,Renault Duster 110PS Diesel RxZ,"85,000",Diesel,Manual,3.25,"Naranpura, Ahmedabad"
+2016,Mahindra KUV 100 mFALCON D75 K8,"87,000",Diesel,Manual,2.60,Ahmedabad
+2023,Volkswagen Virtus Topline AT,"7,185",Petrol,Automatic,14.27,"Gota, Ahmedabad"
+2020,Mahindra XUV500 W7,"75,464",Diesel,Manual,9.07,"Gota, Ahmedabad"
+2014,Maruti Wagon R VXI BS IV,"77,897",Petrol,Manual,2.75,"Naroda, Ahmedabad"
+2019,Maruti Baleno Zeta Diesel,"61,052",Diesel,Manual,5.25,"Gota, Ahmedabad"
+2020,Renault Triber RXZ,"53,959",Petrol,Manual,4.73,"Mumatpura, Ahmedabad"
+2021,Maruti Celerio ZXI Plus,"33,377",Petrol,Manual,5.07,"Gota, Ahmedabad"
+2017,Hyundai i20 Asta 1.2,"28,901",Petrol,Manual,5.92,"Gota, Ahmedabad"
+2018,Maruti Wagon R VXI CNG,"82,359",CNG,Manual,3.58,"Gota, Ahmedabad"
+2017,Renault KWID 1.0 RXT Opt,"45,985",Petrol,Manual,2.97,"Gota, Ahmedabad"
+2018,Maruti Baleno 1.3 Zeta,"70,000",Diesel,Manual,5.80,"Vastral, Ahmedabad"
+2023,Hyundai i20 N-Line N8 DCT Dual Tone,"19,000",Petrol,Automatic,11.11,"Naranpura, Ahmedabad"
+2019,Mahindra XUV500 W7 BSIV,"62,000",Diesel,Manual,9.50,"Naranpura, Ahmedabad"
+2017,Maruti Vitara Brezza VDi Option,"87,000",Diesel,Manual,6.30,"Vastral, Ahmedabad"
+2019,Maruti Wagon R AMT VXI,"38,000",Petrol,Automatic,4.90,"Naranpura Vistar, Ahmedabad"
+2020,MG Gloster Savvy 4x2 6Str,"42,296",Diesel,Automatic,27.79,"Gota, Ahmedabad"
+2017,Maruti Swift Dzire VDI,"77,000",Diesel,Manual,5.55,"Naranpura Vistar, Ahmedabad"
+2017,Hyundai Grand i10 1.2 Kappa Sportz BSIV,"31,244",Petrol,Manual,4.49,"Mumatpura, Ahmedabad"
+2011,Toyota Etios VX,"52,000",Petrol,Manual,2.35,"Sardarnagar, Ahmedabad"
+2017,Maruti Swift Dzire AMT VDI,"67,000",Diesel,Automatic,5.95,"Vasna, Ahmedabad"
+2014,Honda Amaze EX i-Vtech,"95,000",Petrol,Manual,2.95,"Makarba, Ahmedabad"
+2017,Maruti Ignis 1.2 AMT Delta BSIV,"55,000",Petrol,Automatic,4.90,"Naranpura Vistar, Ahmedabad"
+2022,Volkswagen Polo 1.0 MPI Trendline,"19,704",Petrol,Manual,5.91,"Gota, Ahmedabad"
+2021,Kia Seltos HTX IVT G,"40,000",Petrol,Automatic,13.50,"Naranpura, Ahmedabad"
+2016,Honda Brio S MT,"39,000",Petrol,Manual,3.75,"Naranpura, Ahmedabad"
+2017,Maruti Swift Dzire VXI 1.2,"85,699",Petrol,Manual,4.72,"Mumatpura, Ahmedabad"
+2019,Honda City ZX MT,"69,000",Petrol,Manual,8.90,"Naranpura, Ahmedabad"
+2023,Tata Tigor EV XZ Plus,"25,000",Electric,Automatic,9.50,"Naranpura, Ahmedabad"
+2020,Maruti Swift VXI,"32,287",Petrol,Manual,5.57,"Gota, Ahmedabad"
+2016,Volvo XC 90 D5 Inscription BSIV,"1,18,000",Diesel,Automatic,28.75,"Makarba, Ahmedabad"
+2018,Tata Tiago 1.05 Revotorq XZ,"39,439",Diesel,Manual,4.81,"Gota, Ahmedabad"
+2021,Nissan Magnite XL BSVI,"70,514",Petrol,Manual,5,"Naroda, Ahmedabad"
+2010,Hyundai i10 Era,"80,345",Petrol,Manual,2.30,"Krishnanagar, Ahmedabad"
+2013,Nissan Micra Active XL Petrol,"46,684",Petrol,Manual,2.39,"Gota, Ahmedabad"
+2018,Jeep Compass 2.0 Sport,"89,000",Diesel,Manual,8.90,"Bopal, Ahmedabad"
+2013,Honda Brio S MT,"1,04,734",Petrol,Manual,2.61,"Gota, Ahmedabad"
+2021,Toyota Fortuner 4X2 Diesel BSVI,"1,38,000",Diesel,Manual,32.75,"Makarba, Ahmedabad"
+2005,Honda New Accord VTi-L MT,"70,000",Petrol,Manual,2.21,"Naranpura Vistar, Ahmedabad"
+2013,Hyundai Verna 1.6 CRDi SX,"91,160",Diesel,Manual,4.56,"Gota, Ahmedabad"
+2012,Maruti Alto K10 LXI,"54,000",Petrol,Manual,2.25,"Naranpura, Ahmedabad"
+2023,Hyundai Venue SX Opt Turbo DCT,"3,500",Petrol,Automatic,12.50,"Naranpura, Ahmedabad"
+2021,Toyota Innova Crysta 2.4 G 7 STR,"68,000",Diesel,Manual,19.90,"Makarba, Ahmedabad"
+2018,Hyundai Creta 1.6 VTVT SX Plus,"85,000",Petrol,Manual,9.61,"Naranpura Vistar, Ahmedabad"
+2020,Honda Amaze VX i-VTEC,"59,663",Petrol,Manual,5.67,"Gota, Ahmedabad"
+2014,Hyundai i10 Sportz 1.1L,"59,371",Petrol,Manual,3.25,"Krishnanagar, Ahmedabad"
+2021,Kia Seltos GTX Plus DCT,"52,504",Petrol,Automatic,13.92,"Gota, Ahmedabad"
+2017,Maruti Swift Dzire AMT VDI,"66,500",Diesel,Automatic,5.75,"Abasana, Ahmedabad"
+2023,Hyundai Verna SX,"18,000",Petrol,Manual,13.25,"Navrangpura, Ahmedabad"
+2021,Toyota Urban cruiser Premium AT,"61,000",Petrol,Automatic,9.50,"Naranpura, Ahmedabad"
+2014,Toyota Corolla Altis D-4D G,"98,000",Diesel,Manual,6.50,"Pada Pole Gandhi Road, Ahmedabad"
+2021,Nissan Magnite Turbo XL,"48,908",Petrol,Manual,5.50,"Gota, Ahmedabad"
+2015,Maruti Wagon R VXI 1.2,"51,119",Petrol,Manual,3.33,"Gota, Ahmedabad"
+2019,Hyundai Grand i10 1.2 Kappa Magna AT,"89,442",Petrol,Automatic,4.30,"Mumatpura, Ahmedabad"
+2019,Hyundai Grand i10 1.2 Kappa Sportz BSIV,"87,000",Petrol,Manual,5.25,"Naranpura, Ahmedabad"
+2017,Honda Jazz 1.2 V AT i VTEC,"65,000",Petrol,Automatic,5.25,"Bopal, Ahmedabad"
+2013,Hyundai Verna 1.6 CRDi SX,"1,14,764",Diesel,Manual,4.80,"Gota, Ahmedabad"
+2021,Tata Safari XZA AT BSVI,"31,000",Diesel,Automatic,15.26,"Naranpura, Ahmedabad"
+2012,Hyundai Accent GLE,"38,000",Petrol,Manual,2.75,"Navrangpura, Ahmedabad"
+2017,Hyundai Creta 1.6 CRDi AT SX Plus,"58,000",Diesel,Automatic,9.50,"Naranpura Vistar, Ahmedabad"
+2016,Maruti Wagon R VXI 1.2,"39,625",Petrol,Manual,3.59,"Gota, Ahmedabad"
+2018,Honda Jazz 1.2 V i VTEC,"31,079",Petrol,Manual,4.61,"Naroda, Ahmedabad"
+2021,Renault Triber RXZ,"57,898",Petrol,Manual,5.17,"Mumatpura, Ahmedabad"
+2018,Hyundai i20 1.2 Asta,"83,253",Petrol,Manual,6.05,"Ambawadi, Ahmedabad"
+2022,Hyundai Creta SX Diesel BSVI,"40,000",Diesel,Manual,16.50,"Makarba, Ahmedabad"
+2022,Hyundai Creta SX Opt Diesel AT BSVI,"75,000",Diesel,Automatic,16.75,"Navrangpura, Ahmedabad"
+2012,Hyundai i10 Magna,"54,000",Petrol,Manual,2.65,"Naranpura Vistar, Ahmedabad"
+2019,Renault Duster SANDSTORM RXS 85 PS,"91,271",Diesel,Manual,6.82,"Gota, Ahmedabad"
+2019,Maruti Ciaz Petrol,"29,392",Diesel,Manual,7.83,"Gota, Ahmedabad"
+2014,Honda Mobilio V i-DTEC,"80,000",Diesel,Manual,4.85,"Ghodasar, Ahmedabad"
+2017,Honda Jazz 1.2 SV i VTEC,"93,341",Petrol,Manual,3.99,"Gota, Ahmedabad"
+2019,Hyundai Grand i10 1.2 Kappa Magna BSIV,"54,379",Petrol,Manual,4.92,"Gota, Ahmedabad"
+2018,Maruti Ignis 1.2 Zeta BSIV,"55,584",Petrol,Manual,3.97,"Naroda, Ahmedabad"
+2022,Tata Altroz XZ,"58,047",Petrol,Manual,7.36,"Gota, Ahmedabad"
+2014,Tata Zest Quadrajet 1.3 XMA,"1,14,000",Diesel,Automatic,2.05,"Sahil Residency, Ahmedabad"
+2009,Hyundai Santro Xing GLS,"80,000",Petrol,Manual,2.11,"Naranpura Vistar, Ahmedabad"
+2018,Maruti Vitara Brezza ZDi AMT,"97,000",Diesel,Automatic,7.25,"Bopal, Ahmedabad"
+2020,Hyundai Santro Sportz CNG,"46,152",CNG,Manual,5.15,"Gota, Ahmedabad"
+2017,Hyundai Grand i10 1.2 Kappa Sportz Option,"57,576",Petrol,Manual,4.39,"Naroda, Ahmedabad"
+2015,Maruti Wagon R VXI BS IV,"68,000",Petrol,Manual,3.15,"Bopal, Ahmedabad"
+2018,Honda Jazz 1.2 SV i VTEC,"57,000",Petrol,Manual,4.90,"Naranpura, Ahmedabad"
+2021,Tata Safari XZ Plus,"24,472",Diesel,Manual,15.53,"Gota, Ahmedabad"
+2015,Honda Amaze VX i-Vtech,"86,000",Petrol,Manual,3.25,"Sahil Residency, Ahmedabad"
+2017,Hyundai Grand i10 1.2 CRDi Magna,"60,178",Diesel,Manual,3.30,"Gota, Ahmedabad"
+2015,Honda City i VTEC CVT VX,"91,597",Petrol,Automatic,5.01,"Naroda, Ahmedabad"
+2022,Hyundai Alcazar Prestige Diesel,"48,000",Diesel,Manual,16,"Ambli, Ahmedabad"
+2017,Maruti Ciaz Petrol,"1,03,746",Diesel,Manual,4.95,"Gota, Ahmedabad"
+2017,Hyundai Grand i10 1.2 Kappa Magna AT,"50,000",Petrol,Automatic,5.11,"Naranpura Vistar, Ahmedabad"
+2017,Volkswagen Vento 1.5 TDI Highline AT,"1,15,000",Diesel,Automatic,6.10,"Naranpura, Ahmedabad"
+2018,Jeep Compass 2.0 Limited 4X4,"63,000",Diesel,Manual,10.50,"Naranpura, Ahmedabad"
+2016,Maruti Baleno Delta Diesel,"36,348",Diesel,Manual,4.79,"Gota, Ahmedabad"
+2015,Honda Amaze S i-Dtech,"61,000",Diesel,Manual,3.25,"Sardarnagar, Ahmedabad"
+2017,Hyundai Creta 1.6 CRDi AT SX Plus,"91,200",Diesel,Automatic,8.99,"Vasna, Ahmedabad"
+2012,Maruti Alto K10 LXI,"78,000",Petrol,Manual,2.20,"Pada Pole Gandhi Road, Ahmedabad"
+2014,Honda City i VTEC CVT SV,"92,000",Petrol,Automatic,5.21,"Ghatlodia, Ahmedabad"
+2016,Honda Jazz 1.2 V AT i VTEC,"49,000",Petrol,Automatic,4.95,"Bopal, Ahmedabad"
+2022,Toyota Camry Hybrid 2.5,"47,000",Petrol,Automatic,31,"Ambli, Ahmedabad"
+2018,Maruti S Cross Zeta DDiS 200 SH,"72,000",Diesel,Manual,7.75,"Naranpura, Ahmedabad"
+2015,Maruti Ciaz VXi Plus,"54,110",Petrol,Manual,4.51,"Naroda, Ahmedabad"
+2018,Hyundai Grand i10 1.2 Kappa Magna AT,"75,713",Petrol,Automatic,4.77,"Gota, Ahmedabad"
+2016,Honda City i DTec VX,"77,000",Diesel,Manual,5.75,"Navrangpura, Ahmedabad"
+2018,Hyundai Grand i10 1.2 Kappa Sportz Option AT,"81,000",Petrol,Automatic,5.40,"Naranpura, Ahmedabad"
+2017,Honda WR-V i-VTEC VX,"51,000",Petrol,Manual,6.50,"Ambli, Ahmedabad"
+2016,Volkswagen Vento 1.5 TDI Highline AT,"90,000",Diesel,Automatic,6.49,"Naranpura Vistar, Ahmedabad"
+2014,Toyota Etios Cross 1.4L GD,"78,000",Diesel,Manual,3.35,Ahmedabad
+2015,Maruti Wagon R VXI BS IV,"1,30,000",Petrol,Manual,2.75,"Chandkheda, Ahmedabad"
+2020,Skoda Superb Petrol Ambition,"65,506",Petrol,Manual,7.08,"Gota, Ahmedabad"
+2017,Mahindra XUV500 W9 AT,"93,775",Diesel,Automatic,9.17,"Gota, Ahmedabad"
+2014,Hyundai Grand i10 1.2 Kappa Asta,"69,067",Petrol,Manual,3.75,"Gota, Ahmedabad"
+2017,Tata Tiago 1.2 Revotron XZ,"74,827",Petrol,Manual,3.56,"Gota, Ahmedabad"
+2016,Honda Jazz 1.5 V i DTEC,"70,000",Diesel,Manual,5.10,"Ghodasar, Ahmedabad"
+2017,Nissan Sunny Diesel XE,"1,03,969",Diesel,Manual,3.13,"Gota, Ahmedabad"
+2020,Maruti Swift AMT VXI BSIV,"52,000",Petrol,Automatic,6.35,"Ghatlodia, Ahmedabad"
+2012,Nissan Sunny XL,"69,795",Petrol,Manual,3,"Gota, Ahmedabad"
+2017,Maruti Ciaz 1.4 Zeta,"77,214",Petrol,Manual,4.75,"Mumatpura, Ahmedabad"
+2017,Hyundai Grand i10 1.2 Kappa Asta,"65,693",Petrol,Manual,4.33,"Naroda, Ahmedabad"
+2016,Maruti Celerio VXI,"64,000",Petrol,Manual,3.15,"Sardarnagar, Ahmedabad"
+2018,Honda City i-VTEC CVT V,"75,000",Petrol,Automatic,7.50,"Naranpura Vistar, Ahmedabad"
+2019,Honda City i-VTEC CVT VX,"69,874",Petrol,Automatic,7.53,"Mumatpura, Ahmedabad"
+2019,Honda City i-DTEC VX,"45,000",Diesel,Manual,10.50,"Paldi, Ahmedabad"
+2020,Renault Duster Petrol RxL,"61,443",Petrol,Manual,6.48,"Gota, Ahmedabad"
+2020,Kia Carnival Limousine,"60,000",Diesel,Automatic,26.50,"Naranpura, Ahmedabad"
+2016,Maruti Ciaz ZDi Plus SHVS,"56,102",Diesel,Manual,5.91,"Ambawadi, Ahmedabad"
+2015,Maruti Swift Dzire VXI,"96,000",Petrol,Manual,4.65,"Naranpura, Ahmedabad"
+2016,Maruti Baleno 1.2 Zeta,"36,000",Petrol,Manual,5.75,"Paldi, Ahmedabad"
+2010,Honda Jazz Active,"72,000",Petrol,Manual,1.81,"Naranpura, Ahmedabad"
+2017,Hyundai Verna VTVT 1.6 AT SX Option,"98,172",Petrol,Automatic,7.13,"Mumatpura, Ahmedabad"
+2013,Audi A4 2.0 TDI,"74,000",Diesel,Automatic,12.50,"Naranpura, Ahmedabad"
+2017,Maruti Ciaz 1.3 Delta,"60,000",Diesel,Manual,6.35,"Gota, Ahmedabad"
+2016,Honda Jazz 1.2 V i VTEC,"65,000",Petrol,Manual,4.30,"Ghodasar, Ahmedabad"
+2017,Audi A4 35 TDI Technology,"96,078",Diesel,Automatic,22.50,"Bhadaj, Ahmedabad"
+2016,Hyundai i20 Asta 1.2,"47,000",Petrol,Manual,5.35,"Naranpura Vistar, Ahmedabad"
+2014,BMW 3 Series 320d GT Luxury Line,"67,000",Diesel,Automatic,16,"Ambli, Ahmedabad"
+2015,Hyundai i10 Magna 1.1 iTech SE,"65,000",Petrol,Manual,3.30,"Ambli, Ahmedabad"
+2019,Hyundai Verna SX IVT Opt,"70,986",Petrol,Automatic,8.56,"Mumatpura, Ahmedabad"
+2015,Nissan Micra XL,"64,000",Petrol,Manual,3.75,"Naranpura, Ahmedabad"
+2017,BMW 3 Series 320d,"73,000",Diesel,Automatic,19,"Ambli, Ahmedabad"
+2015,Hyundai Grand i10 AT Asta,"62,000",Petrol,Automatic,5.40,"Ambli, Ahmedabad"
+2017,Hyundai Xcent 1.1 CRDi S,"60,000",Diesel,Manual,5.25,"Ghodasar, Ahmedabad"
+2016,Hyundai Verna 1.6 CRDi SX,"72,000",Diesel,Manual,6.45,"Gota, Ahmedabad"
+2015,Audi A6 35 TDI Technology,"77,313",Diesel,Automatic,20.50,"Bhadaj, Ahmedabad"
+2016,Renault Pulse Petrol RxL,"69,000",Petrol,Manual,3.75,"Ghodasar, Ahmedabad"
+2019,Renault KWID RXL,"44,911",Petrol,Manual,3.06,"Gota, Ahmedabad"
+2021,Datsun RediGO T,"24,135",Petrol,Manual,2.65,"Naroda, Ahmedabad"
+2021,Mahindra Thar LX 4WD Hard Top AT BSVI,"14,000",Petrol,Automatic,12.75,"Naranpura, Ahmedabad"
+2022,Renault KWID 1.0 RXT AMT Opt,"18,674",Petrol,Automatic,4,"Mumatpura, Ahmedabad"
+2011,Volkswagen Polo 1.5 TDI Trendline,"69,112",Diesel,Manual,2.40,"Gota, Ahmedabad"
+2016,Maruti Alto 800 LXI CNG,"80,455",CNG,Manual,2.68,"Gota, Ahmedabad"
+2018,Renault KWID 1.0 AMT RXT,"29,637",Petrol,Automatic,3.29,"Gota, Ahmedabad"
+2021,MG Hector Sharp DCT,"19,000",Petrol,Automatic,14.75,"Naranpura, Ahmedabad"
+2020,Tata Harrier XZA Plus AT BSVI,"97,000",Diesel,Automatic,13.50,"Gota, Ahmedabad"
+2010,Honda Jazz Active,"65,000",Petrol,Manual,2.25,"Makarba, Ahmedabad"
+2014,Maruti Swift ZDi,"49,947",Diesel,Manual,3.70,"Naroda, Ahmedabad"
+2016,Maruti Celerio VXI,"1,01,644",Petrol,Manual,2.80,"Gota, Ahmedabad"
+2022,MG Hector Plus Sharp CVT,"21,856",Petrol,Automatic,14.82,"Gota, Ahmedabad"
+2017,Honda City i-DTEC ZX,"74,000",Diesel,Manual,8.25,"Makarba, Ahmedabad"
+2019,Renault Duster RXS Option CVT BSIV,"40,244",Petrol,Automatic,7.25,"Bopal, Ahmedabad"
+2021,Kia Sonet HTX Turbo iMT,"30,289",Petrol,Automatic,8.60,"Gota, Ahmedabad"
+2021,Kia Seltos GTX Plus,"31,000",Petrol,Manual,17.25,"Paldi, Ahmedabad"
+2017,Hyundai EON Era,"63,619",Petrol,Manual,2.72,"Gota, Ahmedabad"
+2016,Honda City i VTEC V,"82,000",Petrol,Manual,5.50,"Makarba, Ahmedabad"
+2016,Maruti Alto K10 VXI,"6,764",Petrol,Manual,3.20,"Gota, Ahmedabad"
+2017,Maruti Alto K10 VXI AMT,"70,326",Petrol,Automatic,3.51,"Naranpura, Ahmedabad"
+2014,Hyundai i20 Sportz Petrol,"70,201",Petrol,Manual,2.75,"Gota, Ahmedabad"
+2012,Maruti Wagon R LXI CNG,"93,511",CNG,Manual,2.56,"Gota, Ahmedabad"
+2022,Honda WR-V VX,"29,000",Petrol,Manual,8.75,"Naranpura, Ahmedabad"
+2012,Hyundai i10 Magna,"75,000",Petrol,Manual,2.50,"Naranpura, Ahmedabad"
+2021,Mahindra XUV300 W8 Option BSVI,"48,000",Petrol,Manual,9.11,"Naranpura, Ahmedabad"
+2012,Hyundai Verna 1.6 SX,"75,000",Diesel,Manual,3.51,"Naranpura, Ahmedabad"
+2015,Maruti Swift VXI,"24,697",Petrol,Manual,4.33,"Gota, Ahmedabad"
+2018,Honda Amaze V CVT Petrol BSIV,"68,000",Petrol,Automatic,5.25,"Navrangpura, Ahmedabad"
+2021,Mahindra XUV300 W8 BSVI,"27,174",Petrol,Manual,8.70,"Mumatpura, Ahmedabad"
+2017,Honda Jazz 1.2 V AT i VTEC,"36,000",Petrol,Automatic,5.50,"Krishnanagar, Ahmedabad"
+2020,Renault Triber RXT BSIV,"74,700",Petrol,Manual,5.30,"Vasna, Ahmedabad"
+2012,Honda Brio S MT,"70,421",Petrol,Manual,2.70,"Gota, Ahmedabad"
+2022,BMW 2 Series 220i M Sport BSVI,"13,110",Petrol,Automatic,33.50,"Bhadaj, Ahmedabad"
+2017,Maruti Swift VXI,"65,600",Petrol,Manual,4.40,"Ctm Char Rasta, Ahmedabad"
+2023,Hyundai Verna SX Opt,"20,100",Petrol,Manual,13.50,"Vasna, Ahmedabad"
+2016,Maruti S Cross DDiS 200 Delta,"82,000",Diesel,Manual,4.90,"Pada Pole Gandhi Road, Ahmedabad"
+2023,Tata Tigor XM CNG,"22,121",CNG,Manual,6.46,"Mumatpura, Ahmedabad"
+2021,Tata Harrier XE,"29,210",Diesel,Manual,11.77,"Gota, Ahmedabad"
+2018,Maruti Alto 800 VXI,"51,326",Petrol,Manual,2.80,"Gota, Ahmedabad"
+2022,Skoda Slavia 1.5 TSI Style AT,"25,552",Petrol,Automatic,12.44,"Gota, Ahmedabad"
+2018,Maruti Swift Dzire VXI 1.2,"54,232",Petrol,Manual,5.80,"Krishnanagar, Ahmedabad"
+2024,Hyundai Verna SX Opt Turbo DCT,"15,000",Petrol,Automatic,17.25,"Paldi, Ahmedabad"
+2019,Hyundai Tucson 2.0 e-VGT 2WD AT GL Opt,"78,000",Diesel,Automatic,14.75,"Makarba, Ahmedabad"
+2016,Honda City V MT,"45,983",Petrol,Manual,5.46,"Gota, Ahmedabad"
+2018,Honda City V MT Diesel,"43,071",Diesel,Manual,7.28,"Gota, Ahmedabad"
+2016,Volvo XC 90 D5 Inscription BSIV,"97,000",Diesel,Automatic,27.95,"Makarba, Ahmedabad"
+2012,Mahindra XUV500 W8 FWD,"81,000",Diesel,Manual,3.62,Ahmedabad
+2020,Maruti Swift VXI,"52,000",Petrol,Manual,6.21,"Naranpura Vistar, Ahmedabad"
+2013,Maruti Wagon R VXI BS IV,"48,391",Petrol,Manual,2.66,"Naroda, Ahmedabad"
+2022,MG Hector Sharp Diesel MT,"56,000",Diesel,Manual,15.90,"Naranpura, Ahmedabad"
+2023,Tata Nexon XZ Plus HS Diesel,"34,144",Diesel,Manual,9.43,"Gota, Ahmedabad"
+2017,Maruti Swift Dzire ZXI 1.2,"31,297",Petrol,Manual,5.23,"Naroda, Ahmedabad"
+2018,Honda Amaze VX i DTEC,"43,580",Diesel,Manual,6.02,"Gota, Ahmedabad"
+2017,Hyundai Creta 1.6 CRDi AT SX Plus,"97,000",Diesel,Automatic,8.50,"Ambli, Ahmedabad"
+2016,Maruti Swift VXI,"20,000",Petrol,Manual,4.75,"Ghodasar, Ahmedabad"
+2016,Maruti Swift VXI,"60,000",Petrol,Manual,4.75,"Naranpura, Ahmedabad"
+2018,Hyundai Xcent Petrol,"44,677",Petrol,Manual,5.28,"Gota, Ahmedabad"
+2014,Mahindra XUV500 W8 2WD,"1,06,000",Diesel,Manual,4.90,"Naranpura, Ahmedabad"
+2014,Ford Figo Petrol EXI,"45,200",Petrol,Manual,1.99,"Vasna, Ahmedabad"
+2017,Renault KWID 1.0 AMT RXT,"19,947",Petrol,Automatic,3,"Gota, Ahmedabad"
+2022,Tata Tiago EV XZ Plus Tech LUX LR,"32,000",Electric,Automatic,8.75,"Naranpura, Ahmedabad"
+2011,Maruti Wagon R VXI 1.2,"62,865",Petrol,Manual,2.30,"Gota, Ahmedabad"
+2021,Honda WR-V i-DTEC S,"85,984",Diesel,Manual,6.65,"Gota, Ahmedabad"
+2013,Honda Brio S MT,"68,600",Petrol,Manual,2.60,"Vasna, Ahmedabad"
+2014,Honda Amaze S i-VTEC,"73,292",Petrol,Manual,3.29,"Gota, Ahmedabad"
+2018,Hyundai Verna VTVT 1.6 AT SX Option,"45,700",Petrol,Automatic,8.25,"Vasna, Ahmedabad"
+2020,Maruti Ciaz Petrol,"56,216",Diesel,Manual,7.88,"Gota, Ahmedabad"
+2018,Maruti Swift VXI,"77,000",Petrol,Manual,5.41,"Naranpura Vistar, Ahmedabad"
+2018,Maruti Dzire VXI,"35,498",Petrol,Manual,5.84,"Gota, Ahmedabad"
+2016,Honda City i VTEC SV,"63,120",Petrol,Manual,6.20,"Krishnanagar, Ahmedabad"
+2015,Honda Amaze S i-Vtech,"83,320",Petrol,Manual,3.76,"Mumatpura, Ahmedabad"
+2019,Ford Endeavour 3.2 Titanium AT 4X4,"76,031",Diesel,Automatic,22.24,"Gota, Ahmedabad"
+2021,Maruti Swift VXI BSVI,"58,654",Petrol,Manual,6.40,"Krishnanagar, Ahmedabad"
+2017,Maruti Wagon R LXI BS IV,"38,000",Petrol,Manual,3.25,"Sardarnagar, Ahmedabad"
+2013,Maruti Wagon R LXI BS IV,"72,000",Petrol,Manual,2.51,"Navrangpura, Ahmedabad"
+2017,Maruti Ciaz Petrol,"1,09,268",Diesel,Manual,4.99,"Gota, Ahmedabad"
+2015,Hyundai i20 Asta 1.4 CRDi,"92,388",Diesel,Manual,5.23,"Gota, Ahmedabad"
+2017,Maruti Ciaz Petrol,"84,306",Diesel,Manual,5.15,"Gota, Ahmedabad"
+2011,Toyota Corolla Altis 1.8 J,"98,000",Petrol,Manual,2.55,"Naranpura, Ahmedabad"
+2016,Hyundai Grand i10 1.2 Kappa Magna BSIV,"1,01,688",Petrol,Manual,3.83,"Gota, Ahmedabad"
+2020,Toyota Fortuner 2.8 2WD AT,"99,000",Diesel,Automatic,30.50,"Naranpura Vistar, Ahmedabad"
+2016,Hyundai i20 Sportz 1.4 CRDi,"95,808",Diesel,Manual,4.73,"Naroda, Ahmedabad"
+2017,Honda City i-VTEC CVT ZX,"71,000",Petrol,Automatic,7.75,"Naranpura Vistar, Ahmedabad"
+2022,Mahindra Thar LX 4WD Hard Top AT BSVI,"33,000",Petrol,Automatic,12.75,"Makarba, Ahmedabad"
+2016,Maruti Vitara Brezza ZDi,"94,218",Diesel,Manual,6.05,"Ambawadi, Ahmedabad"
+2013,Ford Ecosport 1.5 TDCi Ambiente BSIV,"1,04,835",Diesel,Manual,3.87,"Gota, Ahmedabad"
+2012,Honda Brio S MT,"66,000",Petrol,Manual,2.35,"Naranpura Vistar, Ahmedabad"
+2023,Hyundai Verna SX Opt,"49,853",Petrol,Manual,14.25,"Chandkheda, Ahmedabad"
+2020,Hyundai i20 Sportz Plus,"59,597",Petrol,Manual,6.06,"Mumatpura, Ahmedabad"
+2016,Renault Lodgy 110PS RxL,"55,000",Diesel,Manual,4.10,"Sardarnagar, Ahmedabad"
+2018,Mahindra KUV 100 mFALCON G80 K2,"75,009",Petrol,Manual,3.22,"Naroda, Ahmedabad"
+2019,Maruti Ciaz Delta BSIV,"71,648",Petrol,Manual,5.70,"Naroda, Ahmedabad"
+2017,Mahindra XUV500 W9,"69,628",Diesel,Manual,9.23,"Gota, Ahmedabad"
+2016,Hyundai i20 Asta Option 1.4 CRDi,"80,100",Diesel,Manual,4.99,"Vasna, Ahmedabad"
+2015,Honda Amaze S Diesel,"47,800",Diesel,Manual,3.50,"Naroda, Ahmedabad"
+2013,Toyota Innova 2.5 VX (Diesel) 7 Seater,"85,000",Diesel,Manual,7.75,"Naranpura, Ahmedabad"
+2016,Renault Scala Diesel RxL,"57,000",Diesel,Manual,3.80,"Naranpura, Ahmedabad"
+2015,Renault Duster 85PS Diesel RxE,"68,000",Diesel,Manual,4.30,"Pada Pole Gandhi Road, Ahmedabad"
+2014,Maruti Ertiga VDI,"60,000",Diesel,Manual,6.25,"Gota, Ahmedabad"
+2022,Hyundai Creta SX BSVI,"57,895",Petrol,Manual,12.40,"Naroda, Ahmedabad"
+2019,Toyota Innova Crysta 2.4 VX MT 8 STR,"69,000",Diesel,Manual,18.75,"Ghatlodia, Ahmedabad"
+2016,Renault Duster RXZ AWD,"91,900",Diesel,Manual,4.80,"Vasna, Ahmedabad"
+2021,Toyota Innova Crysta 2.4 VX 8 STR,"77,000",Diesel,Manual,21.50,"Naranpura, Ahmedabad"
+2014,Skoda Rapid 1.5 TDI AT Ambition,"89,000",Diesel,Automatic,5.90,"Naranpura, Ahmedabad"
+2018,Toyota Innova Crysta 2.4 G MT BSIV,"63,000",Diesel,Manual,14.90,"Naranpura, Ahmedabad"
+2014,Hyundai Verna 1.6 CRDi EX MT,"75,000",Diesel,Manual,5.25,"Naranpura, Ahmedabad"
+2016,Hyundai Grand i10 Sportz,"90,434",Petrol,Manual,3.77,"Naroda, Ahmedabad"
+2016,Toyota Fortuner 2.8 2WD MT BSIV,"95,000",Diesel,Manual,14.75,"Ghatlodia, Ahmedabad"
+2023,Kia Sonet HTK Plus,"16,000",Petrol,Manual,10,"Chandkheda, Ahmedabad"
+2015,Nissan Micra XL,"39,000",Petrol,Manual,4.55,"Bopal, Ahmedabad"
+2021,Maruti S-Presso VXI CNG 2019-2020,"62,168",CNG,Manual,3.86,"Naroda, Ahmedabad"
+2024,Hyundai Creta SX Opt Diesel,"5,000",Diesel,Manual,19.50,"Naranpura, Ahmedabad"
+2018,Honda Amaze S i-DTEC,"61,300",Diesel,Manual,4.90,"Vasna, Ahmedabad"
+2022,Tata Nexon XM BSVI,"17,724",Petrol,Manual,7.24,"Naroda, Ahmedabad"
+2012,Maruti Wagon R VXI CNG,"44,419",CNG,Manual,2.74,"Gota, Ahmedabad"
+2020,Renault KWID RXT,"70,659",Petrol,Manual,3,"Gota, Ahmedabad"
+2017,Renault KWID 1.0 RXL,"92,819",Petrol,Manual,2.34,"Naroda, Ahmedabad"
+2023,Maruti S-Presso VXI CNG,"21,728",CNG,Manual,4.48,"Gota, Ahmedabad"
+2021,Kia Sonet HTX Turbo iMT,"69,325",Petrol,Automatic,7.59,"Gota, Ahmedabad"
+2012,Maruti Swift Dzire VXI,"44,590",Petrol,Manual,3.33,"Gota, Ahmedabad"
+2021,Hyundai Alcazar Platinum 6Str Diesel AT,"18,135",Diesel,Automatic,15.74,"Gota, Ahmedabad"
+2013,Audi A4 2.0 TDI,"73,000",Diesel,Automatic,9.95,"Makarba, Ahmedabad"
+2020,Nissan Magnite Turbo XL,"1,17,335",Petrol,Manual,5.01,"Gota, Ahmedabad"
+2020,Hyundai Venue SX Turbo,"41,890",Petrol,Manual,7.46,"Gota, Ahmedabad"
+2019,Maruti Swift Dzire VXI 1.2,"70,200",Petrol,Manual,5.50,"Ctm Char Rasta, Ahmedabad"
+2012,Maruti Swift VXI,"66,000",Petrol,Manual,3.50,"Naranpura, Ahmedabad"
+2016,Renault KWID RXT,"1,05,917",Petrol,Manual,2.25,"Chandkheda, Ahmedabad"
+2022,Nissan Magnite XL BSVI,"34,778",Petrol,Manual,5.36,"Naroda, Ahmedabad"
+2022,Tata Tigor XZ Diesel,"13,813",Diesel,Manual,6.01,"Gota, Ahmedabad"
+2016,Maruti Alto K10 VXI S-CNG,"95,926",CNG,Manual,2.70,"Gota, Ahmedabad"
+2022,Skoda Kushaq 1.0 TSI Style BSVI,"62,000",Petrol,Manual,10.90,"Naranpura, Ahmedabad"
+2015,Maruti Ertiga VXI,"62,000",Petrol,Manual,6.50,"Naranpura Vistar, Ahmedabad"
+2021,Hyundai Creta S BSVI,"48,045",Petrol,Manual,12.25,"Bopal, Ahmedabad"
+2019,Maruti S Cross Zeta DDiS 200 SH,"64,000",Diesel,Manual,7.90,"Naranpura, Ahmedabad"
+2012,Maruti A-Star Vxi,"1,09,277",Petrol,Manual,1.99,"Gota, Ahmedabad"
+2014,Maruti Ertiga ZDI,"63,000",Diesel,Manual,5.10,"Sardarnagar, Ahmedabad"
+2022,Tata Tiago XZ Plus BSVI,"37,126",Petrol,Manual,5.50,"Mumatpura, Ahmedabad"
+2017,Hyundai Creta 1.6 CRDi AT SX Plus,"92,041",Diesel,Automatic,8.40,"Krishnanagar, Ahmedabad"
+2011,Hyundai Accent GLE,"81,000",Petrol,Manual,1.71,"Ambawadi, Ahmedabad"
+2016,Honda City i VTEC CVT SV,"72,000",Petrol,Automatic,5.90,"Naranpura, Ahmedabad"
+2021,Mahindra Thar LX 4WD Convert Top Diesel BSVI,"37,029",Diesel,Manual,11.48,"Gota, Ahmedabad"
+2018,Toyota Fortuner 2.8 2WD MT BSIV,"1,38,000",Diesel,Manual,26.50,"Gota, Ahmedabad"
+2017,Ford Ecosport 1.5 Diesel Titanium BSIV,"55,000",Diesel,Manual,6.25,"Naranpura Vistar, Ahmedabad"
+2023,Toyota Innova Crysta 2.4 GX 7Str,"50,000",Diesel,Manual,20.89,"Navrangpura, Ahmedabad"
+2019,Honda Amaze S Petrol BSIV,"80,737",Petrol,Manual,4.99,"Mumatpura, Ahmedabad"
+2013,Honda Brio S MT,"83,000",Petrol,Manual,1.99,Ahmedabad
+2013,Maruti Swift VXI,"68,000",Petrol,Manual,3.35,"Ghodasar, Ahmedabad"
+2019,Hyundai Grand i10 1.2 Kappa Magna BSIV,"57,000",Petrol,Manual,5.20,"Naranpura Vistar, Ahmedabad"
+2010,Toyota Corolla Altis Diesel D4DG,"61,000",Diesel,Manual,3.50,"Naranpura Vistar, Ahmedabad"
+2016,Maruti Ciaz ZDi SHVS,"69,000",Diesel,Manual,5.51,"Ghatlodia, Ahmedabad"
+2018,Toyota Corolla Altis 1.8 VL CVT,"71,000",Petrol,Automatic,10.49,"Navrangpura, Ahmedabad"
+2015,Maruti Alto K10 VXI AMT,"81,000",Petrol,Automatic,3.10,"Pada Pole Gandhi Road, Ahmedabad"
+2022,Hyundai Verna SX Diesel,"54,000",Diesel,Manual,12.75,"Naranpura, Ahmedabad"
+2018,Skoda Rapid 1.5 TDI AT Style BSIV,"88,000",Diesel,Automatic,8.75,"Bopal, Ahmedabad"
+2011,Honda City V MT,"77,800",Petrol,Manual,2.73,"Ambawadi, Ahmedabad"
+2017,Maruti Vitara Brezza ZDi Plus,"76,023",Diesel,Manual,7.37,"Naroda, Ahmedabad"
+2021,Ford Ecosport Titanium Diesel,"85,000",Diesel,Manual,8.75,"Navrangpura, Ahmedabad"
+2021,Skoda Rapid 1.0 TSI Ambition AT,"64,708",Petrol,Automatic,7.75,"Naroda, Ahmedabad"
+2022,Volkswagen Taigun 1.0 Highline,"38,149",Petrol,Manual,9.89,"Gota, Ahmedabad"
+2011,Volkswagen Polo Exquisite 1.5 TDI Highline,"63,633",Diesel,Manual,2.87,"Gota, Ahmedabad"
+2017,Mahindra KUV 100 mFALCON G80 K6,"45,000",Petrol,Manual,2.85,"Sardarnagar, Ahmedabad"
+2018,Maruti Wagon R LXI CNG,"71,005",CNG,Manual,3.81,"Gota, Ahmedabad"
+2021,Tata Nexon XM BSVI,"39,304",Petrol,Manual,6.86,"Naroda, Ahmedabad"
+2013,Ford Ecosport 1.0 Ecoboost Titanium,"47,800",Petrol,Manual,3.82,"Gota, Ahmedabad"
+2015,Maruti Swift VDI,"99,767",Diesel,Manual,4.40,"Gota, Ahmedabad"
+2017,Hyundai Creta 1.6 SX Diesel,"74,896",Diesel,Manual,8.29,"Gota, Ahmedabad"
+2021,Maruti Ciaz Alpha BSVI,"41,400",Petrol,Manual,7.45,"Vasna, Ahmedabad"
+2012,Maruti Swift VDI,"1,20,712",Diesel,Manual,3.30,"Gota, Ahmedabad"
+2019,Hyundai Creta 1.6 VTVT SX Plus,"59,000",Petrol,Manual,9.50,"Naranpura Vistar, Ahmedabad"
+2012,Honda City 1.5 S AT,"88,000",Petrol,Automatic,4.50,"Paldi, Ahmedabad"
+2021,MG Gloster Savvy 6-Str,"49,000",Diesel,Automatic,23.75,"Ambli, Ahmedabad"
+2018,Hyundai Creta 1.6 CRDi AT SX Plus,"81,000",Diesel,Automatic,10.75,"Naranpura Vistar, Ahmedabad"
+2021,Hyundai Alcazar Prestige Diesel,"61,000",Diesel,Manual,15,"Ghatlodia, Ahmedabad"
+2018,Toyota Innova Crysta 2.4 G MT BSIV,"75,000",Diesel,Manual,15.40,"Navrangpura, Ahmedabad"
+2014,Toyota Fortuner 4x2 AT,"85,000",Diesel,Automatic,14.49,"Navrangpura, Ahmedabad"
+2020,Mercedes-Benz CLA 200 CDI Style,"30,000",Diesel,Automatic,22.50,"Ambli, Ahmedabad"
+2009,Hyundai Santro Xing GL,"95,116",Petrol,Manual,1.25,"Ambawadi, Ahmedabad"
+2023,Toyota Innova Crysta 2.4 VX 8Str,"39,000",Diesel,Manual,24.50,"Naranpura, Ahmedabad"
+2019,Maruti Swift Dzire AMT VXI,"58,900",Petrol,Automatic,5.70,"Vasna, Ahmedabad"
+2017,Land Rover Discovery HSE 3.0 TD6,"82,000",Diesel,Automatic,22,"Ambli, Ahmedabad"
+2017,Maruti Swift VXI,"69,000",Petrol,Manual,4.75,"Naranpura, Ahmedabad"
+2017,Toyota Innova Crysta 2.8 GX AT BSIV,"80,000",Diesel,Automatic,15.90,"Naranpura, Ahmedabad"
+2020,Maruti Ertiga ZXI Plus,"65,000",Petrol,Manual,9.75,"Naranpura, Ahmedabad"
+2012,Honda City 1.5 V AT Sunroof,"85,304",Petrol,Automatic,3.49,"Ambawadi, Ahmedabad"
+2019,Tata Tiago XZA,"31,393",Petrol,Automatic,4.46,"Naroda, Ahmedabad"
+2023,Tata Nexon 1.5 Revotorq XZ Plus Dual Tone,"29,337",Diesel,Manual,7.26,"Gota, Ahmedabad"
+2011,Tata Indica Aqua 1.3 Quadrajet,"65,000",Diesel,Manual,1.25,"Navrangpura, Ahmedabad"
+2024,Hyundai Creta SX (O) iVT,"2,000",Petrol,Automatic,18.75,"Naranpura, Ahmedabad"
+2009,Maruti Swift Vdi BSIII,"81,000",Diesel,Manual,1.60,Ahmedabad
+2015,Hyundai Creta 1.6 CRDi AT SX Plus,"70,000",Diesel,Automatic,6.95,"Makarba, Ahmedabad"
+2023,Maruti Ertiga VXI,"12,500",Petrol,Manual,9.75,"Vasna, Ahmedabad"
+2011,Volkswagen Vento Diesel Trendline,"65,000",Diesel,Manual,2.70,"Navrangpura, Ahmedabad"
+2015,Mercedes-Benz GLA Class 200 CDI,"74,600",Diesel,Automatic,10.50,"Vasna, Ahmedabad"
+2017,Hyundai i20 Magna 1.2,"59,000",Petrol,Manual,5.85,"Naranpura Vistar, Ahmedabad"
+2023,Audi Q3 Premium Plus,"11,519",Petrol,Automatic,39.50,"Bhadaj, Ahmedabad"
+2018,Maruti Vitara Brezza ZDi,"68,300",Diesel,Manual,7.55,"Vasna, Ahmedabad"
+2018,Honda WR-V i-DTEC VX,"60,000",Diesel,Manual,6.61,"Naranpura Vistar, Ahmedabad"
+2017,Maruti Vitara Brezza VDi Option,"40,000",Diesel,Manual,7.50,"Naranpura Vistar, Ahmedabad"
+2012,Maruti Swift VXI,"35,000",Petrol,Manual,3,"Sardarnagar, Ahmedabad"
+2016,Renault KWID RXT,"48,000",Petrol,Manual,2.10,"Sardarnagar, Ahmedabad"
+2018,Honda City i-DTEC SV,"62,400",Diesel,Manual,7.25,"Ctm Char Rasta, Ahmedabad"
+2020,Kia Seltos HTX Plus AT D,"75,000",Diesel,Automatic,13.75,"Ambli, Ahmedabad"
+2021,MG Hector Sharp DCT,"35,000",Petrol,Automatic,14.25,"Ambli, Ahmedabad"
+2011,Hyundai i10 Era,"66,000",Petrol,Manual,2.35,"Vasna, Ahmedabad"
+2023,Tata Nexon EV XZ Plus Dark Edition,"25,000",Electric,Automatic,13.25,"Ambli, Ahmedabad"
+2016,Hyundai Creta 1.6 VTVT S,"37,000",Petrol,Manual,7.25,"Bopal, Ahmedabad"
+2021,Hyundai Venue S,"35,000",Petrol,Manual,7.90,"Naranpura Vistar, Ahmedabad"
+2022,Renault KWID RXL Opt,"50,600",Petrol,Manual,3.75,"Vasna, Ahmedabad"
+2015,Hyundai EON Era Plus,"68,000",Petrol,Manual,2.10,"Sardarnagar, Ahmedabad"
+2022,Tata Tiago XT CNG BSVI,"65,445",CNG,Manual,5.50,"Naroda, Ahmedabad"
+2022,MG Hector Sharp CVT,"17,736",Petrol,Automatic,13.97,"Naroda, Ahmedabad"
+2011,Honda City V MT,"59,000",Petrol,Manual,3,"Sardarnagar, Ahmedabad"
+2014,Honda Mobilio S i-DTEC,"87,404",Diesel,Manual,3.25,"Behrampura, Ahmedabad"
+2021,Hyundai Grand i10 Nios AMT Sportz,"38,000",Petrol,Automatic,6.50,"Naranpura Vistar, Ahmedabad"
+2021,Renault Triber RXT,"44,116",Petrol,Manual,4.42,"Mumatpura, Ahmedabad"
+2016,Hyundai i20 1.2 Sportz,"79,071",Petrol,Manual,4.50,"Naroda, Ahmedabad"
+2017,Maruti Alto 800 LXI,"32,000",Petrol,Manual,2.65,"Sardarnagar, Ahmedabad"
+2017,Maruti Swift Dzire VDI,"90,120",Diesel,Manual,4.75,"Naroda, Ahmedabad"
+2016,Maruti Vitara Brezza LDi,"55,000",Diesel,Manual,6.25,"Naranpura Vistar, Ahmedabad"
+2022,Tata Nexon XM S Diesel BSVI,"60,000",Diesel,Manual,8.75,"Sahil Residency, Ahmedabad"
+2021,Honda Amaze V CVT Petrol,"58,000",Petrol,Automatic,7.50,"Ambli, Ahmedabad"
+2022,Tata Harrier XZ Plus Dark Edition,"57,000",Diesel,Manual,18.90,"Naranpura Vistar, Ahmedabad"
+2022,Hyundai Grand i10 Nios Sportz CNG,"43,600",CNG,Manual,6.95,"Vasna, Ahmedabad"
+2010,Maruti Swift 1.2 ZXI BSII,"55,000",Petrol,Manual,2.10,"Sardarnagar, Ahmedabad"
+2016,Mahindra KUV 100 mFALCON G80 K8 5str,"46,000",Petrol,Manual,2.75,"Sardarnagar, Ahmedabad"
+2013,Maruti Swift Dzire VXI,"37,882",Petrol,Manual,3.38,"Mumatpura, Ahmedabad"
+2015,Honda City i VTEC V,"50,000",Petrol,Manual,5.95,"Naranpura Vistar, Ahmedabad"
+2014,Maruti Wagon R VXI BS IV,"49,000",Petrol,Manual,2.50,"Sardarnagar, Ahmedabad"
+2014,Maruti Swift LXI,"48,091",Petrol,Manual,3.45,"Mumatpura, Ahmedabad"
+2022,Tata Altroz XZ Plus BSVI,"19,569",Petrol,Manual,7.10,"Naroda, Ahmedabad"
+2017,Honda City i-DTEC ZX,"65,000",Diesel,Manual,7.50,"Gota, Ahmedabad"
+2021,Kia Sonet HTK Plus BSVI,"24,000",Petrol,Manual,9,"Ambli, Ahmedabad"
+2021,Hyundai Aura S,"46,000",Petrol,Manual,6.15,"Naranpura Vistar, Ahmedabad"
+2016,Maruti Swift Dzire VXI,"69,084",Petrol,Manual,4.35,"Mumatpura, Ahmedabad"
+2015,Honda Brio S MT,"40,000",Petrol,Manual,2.25,"Sardarnagar, Ahmedabad"
+2018,Maruti Baleno 1.2 CVT Zeta,"62,000",Petrol,Automatic,5.55,"Sardarnagar, Ahmedabad"
+2018,Maruti Swift ZXI,"42,000",Petrol,Manual,5.64,"Naranpura Vistar, Ahmedabad"
+2019,Honda WR-V i-VTEC VX,"49,000",Petrol,Manual,7.25,"Ambli, Ahmedabad"
+2021,Hyundai Alcazar Signature Diesel AT,"31,008",Diesel,Automatic,20.27,"Naroda, Ahmedabad"
+2017,Hyundai Grand i10 Magna,"48,834",Petrol,Manual,5.15,"Ambli, Ahmedabad"
+2022,Hyundai Creta SX BSVI,"43,795",Petrol,Manual,11.79,"Naroda, Ahmedabad"
+2019,Jeep Compass 2.0 Limited,"80,384",Diesel,Manual,13.51,"Ambli, Ahmedabad"
+2016,Maruti Wagon R VXI BS IV,"61,000",Petrol,Manual,2.99,"Sardarnagar, Ahmedabad"
+2016,Maruti Vitara Brezza ZDi,"1,10,814",Diesel,Manual,5.51,"Mumatpura, Ahmedabad"
+2022,Hyundai Creta SX Diesel BSVI,"48,000",Diesel,Manual,16.50,"Ctm Char Rasta, Ahmedabad"
+2015,Honda City i VTEC V,"95,290",Petrol,Manual,4.75,"Mumatpura, Ahmedabad"
+2022,Maruti Ciaz Alpha AT BSVI,"35,726",Petrol,Automatic,7.75,"Mumatpura, Ahmedabad"
+2016,Skoda Rapid 1.5 TDI Active,"85,000",Diesel,Manual,4.45,"Vasna, Ahmedabad"
+2021,MG Gloster Savvy 6-Str,"65,214",Diesel,Automatic,30.75,"Ambli, Ahmedabad"
+2018,Maruti Swift Dzire VDI,"66,000",Diesel,Manual,6.50,"Naranpura Vistar, Ahmedabad"
+2016,Hyundai Verna 1.6 CRDi S,"63,000",Diesel,Manual,5.65,"Naranpura Vistar, Ahmedabad"
+2014,Maruti Swift Dzire VXI,"58,000",Petrol,Manual,3.90,"Naranpura Vistar, Ahmedabad"
+2013,Tata Indica Quadrajet LS,"95,000",Diesel,Manual,1.75,"Abasana, Ahmedabad"
+2013,Hyundai i20 Asta 1.2,"36,000",Petrol,Manual,3.75,"Bopal, Ahmedabad"
+2011,Hyundai i20 1.2 Magna,"62,000",Petrol,Manual,2.95,"Bopal, Ahmedabad"
+2018,Hyundai Xcent 1.2 VTVT SX,"32,000",Petrol,Manual,5.75,"Ambli, Ahmedabad"
+2015,Tata Sumo Gold LX,"55,000",Diesel,Manual,3.50,"Paldi, Ahmedabad"
+2022,Hyundai Creta S plus Knight Diesel BSVI,"71,300",Diesel,Manual,11.25,"Vasna, Ahmedabad"
+2017,Honda City i-VTEC SV,"17,000",Petrol,Manual,7,"Ambli, Ahmedabad"
+2017,Hyundai i20 1.2 Spotz,"90,208",Petrol,Manual,5.65,"Ambli, Ahmedabad"
+2013,Maruti SX4 Vxi BSIV,"76,000",Petrol,Manual,2.50,"Sardarnagar, Ahmedabad"
+2015,Hyundai Grand i10 Sportz,"77,000",Petrol,Manual,4.41,"Naranpura Vistar, Ahmedabad"
+2014,Hyundai i20 Asta 1.2,"86,570",Petrol,Manual,3.85,"Mumatpura, Ahmedabad"
+2014,BMW 5 Series 520d Luxury Line,"1,36,000",Diesel,Automatic,16,"Ambli, Ahmedabad"
+2018,Hyundai i20 1.4 Asta (AT),"64,899",Petrol,Automatic,5.30,"Naroda, Ahmedabad"
+2016,Honda Brio 1.2 S MT,"34,000",Petrol,Manual,4.25,"Ambli, Ahmedabad"
+2021,Hyundai Creta SX Executive Diesel BSVI,"71,000",Diesel,Manual,14.75,"Ambli, Ahmedabad"
+2018,Hyundai Creta 1.4 CRDi S Plus,"88,304",Diesel,Manual,9,"Mumatpura, Ahmedabad"
+2019,Hyundai Grand i10 Sportz,"61,000",Petrol,Manual,5.25,"Naranpura Vistar, Ahmedabad"
+2014,Volkswagen Vento Diesel Highline,"73,000",Diesel,Manual,3.95,"Vasna, Ahmedabad"
+2014,Hyundai i10 Magna,"57,000",Petrol,Manual,3.25,"Naranpura Vistar, Ahmedabad"
+2018,Datsun GO Remix Limited Edition,"58,000",Petrol,Manual,2.60,"Vasna, Ahmedabad"
+2014,Honda Mobilio V i-DTEC,"72,000",Diesel,Manual,3.90,"Sardarnagar, Ahmedabad"
+2013,Honda City V MT,"74,000",Petrol,Manual,3.65,"Bopal, Ahmedabad"
+2017,Maruti Swift Dzire AMT ZDI,"57,000",Diesel,Automatic,6.25,"Naranpura Vistar, Ahmedabad"
+2017,Hyundai Tucson 2.0 e-VGT 2WD AT GLS,"74,942",Diesel,Automatic,14,"Ambli, Ahmedabad"
+2018,Toyota Innova Crysta 2.4 VX MT 8S BSIV,"87,000",Diesel,Manual,17.50,"Ambli, Ahmedabad"
+2010,Hyundai i10 Asta 1.2,"63,000",Petrol,Manual,2.75,"Sardarnagar, Ahmedabad"
+2018,Hyundai Grand i10 1.2 CRDi Magna,"62,000",Diesel,Manual,4.95,"Naranpura Vistar, Ahmedabad"
+2016,Maruti Swift ZXI Plus,"41,000",Petrol,Manual,5.15,"Naranpura Vistar, Ahmedabad"
+2017,Maruti Ciaz Delta Diesel,"63,000",Diesel,Automatic,6.90,"Naranpura Vistar, Ahmedabad"
+2015,Honda City i DTEC SV,"67,100",Diesel,Manual,5.70,"Ambli, Ahmedabad"
+2019,Hyundai Grand i10 Magna Petrol BSIV,"51,000",Petrol,Manual,5.25,"Naranpura Vistar, Ahmedabad"
+2015,Honda City i DTEC VX,"80,000",Diesel,Manual,6.51,"Ambli, Ahmedabad"
+2019,Volkswagen Vento 1.5 TDI Highline Plus AT,"73,000",Diesel,Automatic,8.75,"Naranpura Vistar, Ahmedabad"
+2013,Hyundai i10 Era 1.1 iTech SE,"71,000",Petrol,Manual,3.25,"Ambli, Ahmedabad"
+2016,Hyundai Grand i10 Sportz CNG,"55,000",Petrol,Manual,4.35,"Naranpura Vistar, Ahmedabad"
+2017,Hyundai i20 Asta Option 1.2,"60,000",Petrol,Manual,5.95,"Naranpura Vistar, Ahmedabad"
+2016,Honda Brio S MT,"65,000",Petrol,Manual,3.75,"Vasna, Ahmedabad"
+2017,Hyundai Grand i10 1.2 CRDi Magna,"56,200",Diesel,Manual,3.60,"Vasna, Ahmedabad"
+2011,Volkswagen Vento Petrol Comfortline,"1,12,500",Petrol,Manual,2.80,"Vasna, Ahmedabad"
+2015,Hyundai Xcent 1.2 Kappa SX,"56,000",Petrol,Manual,3.75,"Sardarnagar, Ahmedabad"
+2011,Toyota Fortuner 3.0 Diesel,"81,000",Diesel,Manual,11.25,"Naranpura Vistar, Ahmedabad"
+2013,Toyota Innova 2.5 VX (Diesel) 8 Seater,"96,795",Diesel,Manual,7.80,"Ambli, Ahmedabad"
+2014,Audi Q5 2.0 TDI Premium Plus,"92,000",Diesel,Automatic,16.50,"Naranpura Vistar, Ahmedabad"
+2012,Hyundai i20 1.2 Asta,"56,000",Petrol,Manual,3,"Sardarnagar, Ahmedabad"
+2019,Toyota Innova Crysta 2.4 VX MT,"67,000",Diesel,Manual,18.50,"Naranpura Vistar, Ahmedabad"
+2010,Hyundai i10 Asta 1.2 AT with Sunroof,"50,000",Petrol,Automatic,2.75,"Naranpura Vistar, Ahmedabad"
+2018,Honda City i-VTEC CVT VX,"75,000",Petrol,Automatic,7.25,"Bopal, Ahmedabad"
+2022,Toyota Innova Crysta 2.4 GX 7 STR,"18,500",Diesel,Manual,21.75,"Paldi, Ahmedabad"
+2020,Maruti Alto 800 LXI,"82,410",Petrol,Manual,2.90,"Mumatpura, Ahmedabad"
+2016,Mahindra KUV 100 mFALCON G80 K6,"74,000",Petrol,Manual,2.25,"Sardarnagar, Ahmedabad"
+2020,Hyundai Venue S BSIV,"56,300",Petrol,Manual,6.35,"Vasna, Ahmedabad"
+2017,Renault KWID 1.0 RXT,"47,000",Petrol,Manual,2.90,"Naranpura Vistar, Ahmedabad"
+2022,Tata Harrier XZS Dark Edition,"18,637",Diesel,Manual,15.83,"Mumatpura, Ahmedabad"
+2018,Maruti Swift Dzire VXI 1.2,"48,500",Petrol,Manual,5.25,"Abasana, Ahmedabad"
+2018,Mahindra KUV 100 NXT G80 K4 Plus,"53,000",Petrol,Manual,3.11,"Sardarnagar, Ahmedabad"
+2015,Tata Zest Revotron 1.2 XT,"51,000",Petrol,Manual,2.60,"Sardarnagar, Ahmedabad"
+2021,Hyundai Venue SX Turbo,"62,748",Petrol,Manual,7.14,"Mumatpura, Ahmedabad"
+2021,Skoda Kushaq 1.0 TSI Ambition AT BSVI,"20,900",Petrol,Automatic,9.25,"Vasna, Ahmedabad"
+2018,Maruti Vitara Brezza ZDi Plus AMT,"76,000",Diesel,Automatic,6.95,"Pada Pole Gandhi Road, Ahmedabad"
+2017,Tata Tigor 1.2 Revotron XZ Option,"68,200",Petrol,Manual,3.75,"Vasna, Ahmedabad"
+2017,Hyundai Verna 1.6 CRDi SX,"82,000",Diesel,Manual,6.99,"Abasana, Ahmedabad"
+2017,Hyundai EON Era Plus,"42,000",Petrol,Manual,2.40,"Sardarnagar, Ahmedabad"
+2020,Hyundai Grand i10 Nios AMT Magna,"27,000",Petrol,Automatic,6.11,"Naranpura Vistar, Ahmedabad"
+2020,Hyundai Creta S BSVI,"71,000",Petrol,Manual,9.90,"Naranpura Vistar, Ahmedabad"
+2009,Chevrolet Spark 1.0 PS,"35,000",Petrol,Manual,1.41,"Naranpura Vistar, Ahmedabad"
+2023,Mahindra XUV300 W6 Diesel Sunroof BSVI,"35,000",Diesel,Manual,10.25,"Naranpura Vistar, Ahmedabad"
+2021,Maruti Ertiga BSIV VXI,"31,000",Petrol,Manual,9.19,"Naranpura Vistar, Ahmedabad"
+2010,Maruti Wagon R LXI BS IV,"74,000",Petrol,Manual,1.75,"Naranpura, Ahmedabad"
+2014,Tata Zest Revotron 1.2 XT,"61,000",Petrol,Manual,2.40,"Sardarnagar, Ahmedabad"
+2015,Hyundai Grand i10 Magna,"56,000",Petrol,Manual,3.50,"Sardarnagar, Ahmedabad"
+2018,Renault Duster 110PS Diesel RxZ,"68,300",Diesel,Manual,5.25,"Vasna, Ahmedabad"
+2019,Hyundai Verna CRDi 1.6 AT SX Option,"62,500",Diesel,Automatic,9.25,"Vasna, Ahmedabad"
+2008,Maruti Wagon R VXI Minor,"61,000",Petrol,Manual,1.35,"Sardarnagar, Ahmedabad"
+2017,Maruti Alto K10 VXI AGS Optional,"69,612",Petrol,Automatic,3.20,"Naroda, Ahmedabad"
+2020,Honda City i-VTEC CVT VX,"65,200",Petrol,Automatic,9.50,"Navrangpura, Ahmedabad"
+2020,Maruti Ertiga BSIV ZXI Plus,"56,000",Petrol,Manual,9.50,"Naranpura Vistar, Ahmedabad"
+2019,Hyundai Verna VTVT 1.4 E,"75,000",Petrol,Manual,7.15,"Naranpura Vistar, Ahmedabad"
+2019,Maruti Ertiga ZDI Plus,"75,000",Diesel,Manual,10.50,"Naranpura, Ahmedabad"
+2016,Hyundai Verna 1.6 CRDi SX,"1,18,513",Diesel,Manual,5.75,"Naroda, Ahmedabad"
+2018,Mahindra TUV 300 T10,"61,000",Diesel,Manual,6.11,"Naranpura Vistar, Ahmedabad"
+2013,Hyundai i20 Sportz 1.4 CRDi,"85,000",Diesel,Manual,2.70,"Pada Pole Gandhi Road, Ahmedabad"
+2008,Maruti Wagon R LXI Minor,"50,000",Petrol,Manual,1.80,"Naranpura Vistar, Ahmedabad"
+2017,Hyundai Creta 1.6 CRDi AT SX Plus,"65,400",Diesel,Automatic,9.50,"Ctm Char Rasta, Ahmedabad"
+2020,Hyundai Creta 1.6 SX Diesel,"55,199",Diesel,Manual,12.72,"Mumatpura, Ahmedabad"
+2019,Hyundai Santro Magna AMT,"62,000",Petrol,Automatic,4.90,"Naranpura Vistar, Ahmedabad"
+2020,Maruti Swift Dzire VXI 1.2,"61,434",Petrol,Manual,5.49,"Naroda, Ahmedabad"
+2017,Hyundai Verna CRDi 1.6 SX Option,"68,200",Diesel,Manual,6.75,"Vasna, Ahmedabad"
+2021,Toyota Innova Crysta 2.4 ZX 7 STR,"75,000",Diesel,Manual,22.50,"Ambli, Ahmedabad"
+2020,Toyota Fortuner 2.8 4WD AT,"90,000",Diesel,Automatic,30,"Ambli, Ahmedabad"
+2018,Hyundai Creta 1.6 SX Diesel,"1,22,910",Diesel,Manual,8.90,"Mumatpura, Ahmedabad"
+2015,Honda Jazz 1.5 S i DTEC,"87,798",Diesel,Manual,3,"Naroda, Ahmedabad"
+2018,Toyota Innova Crysta 2.4 VX MT 8S BSIV,"85,000",Diesel,Manual,17.50,"Ambli, Ahmedabad"
+2015,Toyota Fortuner 4x2 AT,"89,000",Diesel,Automatic,15.90,"Naranpura Vistar, Ahmedabad"
+2014,Toyota Fortuner 4x2 AT,"80,000",Diesel,Automatic,13.50,"Ambli, Ahmedabad"
+2017,Maruti Swift ZXI Plus,"73,000",Petrol,Manual,5.30,"Naranpura Vistar, Ahmedabad"
+2015,BMW X1 M Sport sDrive 20d,"65,000",Diesel,Automatic,14.75,"Naranpura Vistar, Ahmedabad"
+2017,Toyota Fortuner 2.8 4WD AT BSIV,"1,00,000",Diesel,Automatic,22,"Ambli, Ahmedabad"
+2016,Honda Jazz 1.2 S i VTEC,"65,000",Petrol,Manual,4.35,"Naranpura Vistar, Ahmedabad"
+2019,Volvo XC60 Inscription D5 BSIV,"51,316",Diesel,Automatic,51.50,"Ambli, Ahmedabad"
+2016,Tata Indigo LX BSIV,"1,20,000",Diesel,Manual,"99,999","Sahil Residency, Ahmedabad"
+2018,Renault KWID RXT,"46,148",Petrol,Manual,2.40,"Naroda, Ahmedabad"
+2009,Chevrolet Beat LS,"1,10,000",Petrol,Manual,"85,000","Sahil Residency, Ahmedabad"
+2022,Maruti Ertiga VXI,"14,000",Petrol,Manual,9.45,"Naranpura Vistar, Ahmedabad"
+2023,Mahindra Bolero B6 BSVI,"6,000",Diesel,Manual,10.75,"Naranpura, Ahmedabad"
+2021,Maruti Ertiga CNG VXI,"62,000",CNG,Manual,10.50,"Naranpura Vistar, Ahmedabad"
+2011,Tata Indica V2 eXeta GLS,"18,000",Petrol,Manual,1.41,"Naranpura Vistar, Ahmedabad"
+2022,Hyundai Santro Magna,"5,829",Petrol,Manual,4.68,"Naroda, Ahmedabad"
+2018,Maruti Celerio ZXI,"64,205",Petrol,Manual,3.25,"Naroda, Ahmedabad"
+2012,Tata Indica Quadrajet VX,"45,000",Diesel,Manual,1.50,"Sardarnagar, Ahmedabad"
+2016,Audi A3 35 TDI Attraction,"73,700",Diesel,Automatic,7.99,"Vasna, Ahmedabad"
+2017,Hyundai Verna CRDi 1.6 AT EX,"62,000",Diesel,Automatic,8.25,"Bopal, Ahmedabad"
+2016,Mahindra XUV500 R W10 FWD,"74,000",Diesel,Manual,8.35,"Ambli, Ahmedabad"
+2015,Volkswagen Polo Exquisite 1.5 TDI Highline,"71,200",Diesel,Manual,3.99,"Vasna, Ahmedabad"
+2017,Toyota Innova Crysta 2.8 GX AT 8S BSIV,"78,000",Diesel,Automatic,15.50,"Bopal, Ahmedabad"
+2018,Skoda Kodiaq 2.0 TDI Style,"48,000",Diesel,Automatic,19,"Ambli, Ahmedabad"
+2016,Mahindra XUV500 W6 2WD,"84,000",Diesel,Manual,7.75,"Ambli, Ahmedabad"
+2012,Volkswagen Polo Petrol Trendline 1.2L,"72,000",Petrol,Manual,2.25,"Sardarnagar, Ahmedabad"
+2020,Maruti Swift AMT VXI,"61,000",Petrol,Automatic,4.99,"Abasana, Ahmedabad"
+2011,Honda City CNG,"1,06,800",CNG,Manual,2.25,"Vasna, Ahmedabad"
+2021,Kia Sonet HTX Diesel BSVI,"61,595",Diesel,Manual,9.03,"Mumatpura, Ahmedabad"
+2014,Hyundai EON Era Plus,"77,700",Petrol,Manual,1.95,"Vasna, Ahmedabad"
+2020,Tata Tiago XZA Plus,"34,000",Petrol,Automatic,5.25,"Bopal, Ahmedabad"
+2022,Hyundai Creta SX Opt Diesel AT BSVI,"75,000",Diesel,Automatic,16.85,"Navrangpura, Ahmedabad"
+2017,Maruti Wagon R LXI CNG,"46,000",CNG,Manual,3.95,"Bopal, Ahmedabad"
+2014,Maruti Alto 800 LXI,"59,000",Petrol,Manual,1.90,"Sardarnagar, Ahmedabad"
+2022,Maruti Baleno Zeta BSVI,"36,213",Petrol,Manual,6.09,"Naroda, Ahmedabad"
+2020,Maruti Ertiga 1.5 ZDI Plus,"58,000",Diesel,Manual,10.50,"Naranpura Vistar, Ahmedabad"
+2022,Mahindra Scorpio N Z8L Diesel AT BSVI,"1,00,000",Diesel,Automatic,19,"Ambli, Ahmedabad"
+2013,Volkswagen Vento Petrol Highline,"76,000",Petrol,Manual,3,"Sardarnagar, Ahmedabad"
+2018,Toyota Fortuner 2.8 2WD MT BSIV,"1,05,000",Diesel,Manual,24.75,"Ambli, Ahmedabad"
+2010,Hyundai Santro Xing GLS,"92,000",Petrol,Manual,1.90,"Bopal, Ahmedabad"
+2015,Maruti Ertiga VDI,"84,000",Diesel,Manual,6.51,"Naranpura Vistar, Ahmedabad"
+2011,Hyundai EON Era,"39,000",Petrol,Manual,1.65,"Sardarnagar, Ahmedabad"
+2016,Tata Nano Twist XTA,"35,000",Petrol,Automatic,2.20,"Naranpura Vistar, Ahmedabad"
+2012,Hyundai EON Era,"75,000",Petrol,Manual,1.65,"Sardarnagar, Ahmedabad"
+2012,Maruti Alto 800 LXi,"78,002",Petrol,Manual,1.15,"Naroda, Ahmedabad"
+2010,Chevrolet Spark 1.0 PS,"78,000",Petrol,Manual,"99,000",Ahmedabad
+2010,Tata Manza Aura Safire,"54,000",Petrol,Manual,1.37,"Naranpura Vistar, Ahmedabad"
+2022,Tata Harrier XZ Plus BSVI,"14,700",Diesel,Manual,13.50,"Vasna, Ahmedabad"
+2015,Hyundai Creta 1.6 CRDi AT SX Plus,"78,000",Diesel,Automatic,5.90,Ahmedabad
+2016,Tata Nano CNG XM,"45,000",CNG,Manual,1.50,"Sardarnagar, Ahmedabad"
+2016,Fiat Punto EVO 1.3 Emotion,"1,35,000",Diesel,Manual,1.35,"Sahil Residency, Ahmedabad"
+2015,Mahindra XUV500 W10 1.99 mHawk,"61,000",Diesel,Manual,6.51,"Naranpura Vistar, Ahmedabad"
+2014,Maruti Swift ZDi,"81,000",Diesel,Manual,3.65,Ahmedabad
+2024,Hyundai Aura SX CNG,"5,498",CNG,Manual,7.80,"Gota, Ahmedabad"
+2024,Maruti Swift ZXi Plus,"9,500",Petrol,Manual,8.45,"Vasna, Ahmedabad"
+2022,Tata Punch Adventure,"21,010",Petrol,Manual,6.52,"Gota, Ahmedabad"
+2011,Hyundai i20 1.4 CRDi Asta,"99,100",Diesel,Manual,1.99,"Vasna, Ahmedabad"
+2015,Datsun GO Plus T BSIV,"52,000",Petrol,Manual,1.75,"Sardarnagar, Ahmedabad"
+2016,Tata Nano Twist XTA,"45,000",Petrol,Automatic,2,"Naranpura Vistar, Ahmedabad"
+2024,Hyundai Creta SX (O),"29,000",Petrol,Manual,19.35,"Makarba, Ahmedabad"
+2022,Mahindra XUV700 AX5 7 Str Diesel,"5,743",Diesel,Manual,15.53,"Gota, Ahmedabad"
+2011,Hyundai i10 Sportz AT,"47,000",Petrol,Automatic,3,"Navrangpura, Ahmedabad"
+2022,Maruti Celerio VXI BSVI,"5,500",Petrol,Manual,4.90,"Vasna, Ahmedabad"
+2014,Hyundai i10 Magna,"67,000",Petrol,Manual,3,"Navrangpura, Ahmedabad"
+2015,Hyundai Grand i10 Magna,"59,000",Petrol,Manual,3.65,"Navrangpura, Ahmedabad"
+2016,Honda City i DTec SV,"58,000",Diesel,Manual,5.25,"Navrangpura, Ahmedabad"
+2015,Honda City i DTEC SV,"50,000",Diesel,Manual,5,"Navrangpura, Ahmedabad"
+2017,Hyundai Grand i10 Sportz,"58,000",Petrol,Manual,4.25,"Navrangpura, Ahmedabad"
+2014,Hyundai Xcent 1.2 Kappa S Option,"61,000",Petrol,Manual,3.75,"Navrangpura, Ahmedabad"
+2013,Volkswagen Polo Diesel Highline 1.2L,"65,000",Diesel,Manual,3.15,"Navrangpura, Ahmedabad"
+2016,Skoda Rapid 1.5 TDI AT Ambition Plus,"55,000",Diesel,Automatic,4.75,"Navrangpura, Ahmedabad"
+2018,Toyota Corolla Altis 1.8 G,"85,000",Petrol,Manual,8,"Navrangpura, Ahmedabad"
+2016,Toyota Etios GD,"65,000",Diesel,Manual,4.50,"Navrangpura, Ahmedabad"
+2012,Toyota Corolla Altis Diesel D4DG,"75,000",Diesel,Manual,4.25,"Navrangpura, Ahmedabad"
+2015,Honda City i VTEC CVT SV,"60,000",Petrol,Automatic,5.70,"Ambli, Ahmedabad"
+2017,Hyundai EON Era Plus,"90,700",Petrol,Manual,2.45,"Vasna, Ahmedabad"
+2012,Hyundai i20 Sportz AT 1.4,"51,000",Petrol,Automatic,3.25,"Navrangpura, Ahmedabad"
+2020,Maruti S-Presso VXI Plus AT 2019-2022,"54,000",Petrol,Automatic,3.85,"Navrangpura, Ahmedabad"
+2021,Maruti Wagon R VXI 1.2,"39,437",Petrol,Manual,4.62,"Naroda, Ahmedabad"
+2015,Skoda Rapid 1.6 MPI Ambition,"79,000",Petrol,Manual,4.90,"Naranpura, Ahmedabad"
+2013,Toyota Innova 2.5 GX (Diesel) 7 Seater,"85,000",Diesel,Manual,8.90,"Naranpura, Ahmedabad"
+2018,Maruti Alto 800 LXI,"26,471",Petrol,Manual,2.82,"Naroda, Ahmedabad"
+2019,Honda City i-VTEC ZX,"21,234",Petrol,Manual,7.99,"Mumatpura, Ahmedabad"
+2016,Hyundai Verna 1.6 CRDi SX,"60,000",Diesel,Manual,5.25,"Navrangpura, Ahmedabad"
+2018,Maruti Baleno 1.2 Delta,"59,205",Petrol,Manual,4.51,"Naroda, Ahmedabad"
+2020,Renault Triber RXZ EASY-R AMT BSVI,"39,754",Petrol,Automatic,5.70,"Naroda, Ahmedabad"
+2017,Tata Tiago 1.2 Revotron XTA,"76,000",Petrol,Automatic,4.50,"Makarba, Ahmedabad"
+2014,Hyundai i10 Sportz 1.1L,"90,000",Petrol,Manual,2.77,Ahmedabad
+Request,Photos,,,,"20,000 kms   •   Petrol   •   Manual",Ahmedabad
+2015,Hyundai i20 1.2 Anniversary Edition,"70,000",Petrol,Manual,4,Ahmedabad
+2021,Volvo XC 90 B6 Ultimate BSVI,"20,000",Petrol,Automatic,75,Ahmedabad
+2019,Volvo S90 D4 Inscription,"30,000",Diesel,Automatic,40.11,Ahmedabad
+2017,Maruti Alto 800 LXI,"30,000",Petrol,Manual,2.69,Ahmedabad
+2016,Maruti Swift Dzire LDI,"1,20,000",Diesel,Manual,3.55,Ahmedabad
+2023,Tata Tiago EV XT LR,"30,000",Electric,Automatic,8.80,Ahmedabad
+2015,Hyundai Xcent 1.2 Kappa S,"80,000",Petrol,Manual,3.08,Ahmedabad
+2015,Hyundai i10 Magna 1.1L,"70,000",Petrol,Manual,2.72,Ahmedabad
+2014,Hyundai i20 Magna 1.4 CRDi (Diesel),"60,000",Diesel,Manual,3.75,Ahmedabad
+2021,Nissan Magnite Turbo XV Premium Opt BSVI,"10,000",Petrol,Manual,5.50,Ahmedabad
+2015,Hyundai Grand i10 Sportz,"90,000",Petrol,Manual,3.20,Ahmedabad
+2022,Maruti Eeco 5 Seater AC CNG BSVI,"50,000",CNG,Manual,5,Ahmedabad
+2016,Mercedes-Benz CLA 200 Sport Edition,"60,000",Petrol,Automatic,20,Ahmedabad
+2009,Maruti Alto 800 LXi BSIII,"1,20,000",Petrol,Manual,"83,000",Ahmedabad
+2012,Tata Indica Quadrajet VX,"1,60,000",Diesel,Manual,1.60,Ahmedabad
+2014,Hyundai i20 Magna 1.4 CRDi (Diesel),"60,000",Diesel,Manual,3.75,Ahmedabad
+2021,Nissan Magnite Turbo XV Premium Opt BSVI,"10,000",Petrol,Manual,5.50,Ahmedabad
+2021,Maruti Swift Dzire VXI BSVI,"40,000",Petrol,Manual,5.60,Ahmedabad
+Request,Photos,,,,"60,000 kms   •   Petrol   •   Manual",Ahmedabad
+2015,Mahindra XUV500 W6 2WD,"1,20,000",Diesel,Manual,4.71,Ahmedabad
+2021,Kia Seltos GTX Plus DCT,"30,000",Petrol,Automatic,15,Ahmedabad
+2021,Hyundai Venue SX Turbo,"60,000",Petrol,Manual,7.35,Ahmedabad
+2018,Tata Hexa XTA,"80,000",Diesel,Automatic,8.50,Ahmedabad
+2017,Maruti Wagon R VXI Plus,"80,000",Petrol,Manual,3,Ahmedabad
+2023,Hyundai Venue N Line N8 turbo DCT BSVI,"30,000",Petrol,Automatic,11.74,Ahmedabad
+2017,Maruti Ciaz ZDi Plus SHVS,"1,60,000",Diesel,Manual,4,Ahmedabad
+2016,Maruti Alto 800 LXI,"40,000",Petrol,Manual,2,Ahmedabad
+2017,Maruti Swift Dzire VXI,"80,000",Petrol,Manual,3.60,Ahmedabad
+2021,Mahindra Marazzo M2 BSVI,"1,50,000",Diesel,Manual,9,Ahmedabad
+2016,Hyundai Creta 1.6 CRDi AT SX Plus,"1,00,000",Diesel,Automatic,7,Ahmedabad
+2016,Maruti Alto 800 LXI,"40,000",Petrol,Manual,2,Ahmedabad
+2017,Maruti Swift Dzire VXI,"80,000",Petrol,Manual,3.60,Ahmedabad
+2022,Maruti Eeco 5 Seater AC CNG BSVI,"50,000",CNG,Manual,5,Ahmedabad
+2016,Mercedes-Benz CLA 200 Sport Edition,"60,000",Petrol,Automatic,20,Ahmedabad
+2014,Hyundai i20 Magna 1.4 CRDi (Diesel),"60,000",Diesel,Manual,3.75,Ahmedabad
+2021,Nissan Magnite Turbo XV Premium Opt BSVI,"10,000",Petrol,Manual,5.50,Ahmedabad
+2009,Maruti Alto 800 LXi BSIII,"1,20,000",Petrol,Manual,"83,000",Ahmedabad
+2021,Maruti Swift Dzire VXI BSVI,"40,000",Petrol,Manual,5.60,Ahmedabad
+2021,Hyundai Venue SX Turbo,"60,000",Petrol,Manual,7.35,Ahmedabad
+2021,Mahindra Marazzo M2 BSVI,"1,50,000",Diesel,Manual,9,Ahmedabad
+2016,Hyundai Creta 1.6 CRDi AT SX Plus,"1,00,000",Diesel,Automatic,7,Ahmedabad
+2012,Tata Indica V2 DL BSIII,"1,20,000",Diesel,Manual,"90,000",Ahmedabad
+2010,Hyundai Verna CRDi SX,"1,50,000",Diesel,Manual,1.40,Ahmedabad
+2015,Honda City i DTEC SV,"90,000",Diesel,Manual,4.20,Ahmedabad
+2016,BMW 5 Series 530d M Sport,"60,000",Diesel,Automatic,30,Ahmedabad
+2019,Tata Harrier XT BSIV,"70,000",Diesel,Manual,10,Ahmedabad
+2018,Jeep Compass 2.0 Limited,"1,00,000",Diesel,Manual,8.55,Ahmedabad
+2014,Mercedes-Benz GL-Class 350 CDI Blue Efficiency,"1,20,000",Diesel,Automatic,20,Ahmedabad
+2019,Maruti Baleno Delta,"40,000",Petrol,Manual,5,Ahmedabad
+2021,Tata Harrier XZA Plus Dual Tone AT BSVI,"50,000",Diesel,Automatic,14.50,Ahmedabad
+2018,Hyundai i20 Asta Option CVT BSIV,"80,000",Petrol,Automatic,5.50,Ahmedabad
+2022,Maruti XL6 Alpha Plus AT BSVI,"20,000",Petrol,Automatic,10.78,Ahmedabad
+2013,Honda Amaze S i-Vtech,"1,50,000",Petrol,Manual,2.50,Ahmedabad
+2018,Honda Brio 1.2 S Option MT,"1,00,000",Petrol,Manual,2.85,Ahmedabad
+2018,Hyundai Verna VTVT 1.6 SX Option,"40,000",Petrol,Manual,8.02,Ahmedabad
+2017,Honda City i VTEC V,"60,000",Petrol,Manual,6.50,Ahmedabad
+2021,Tata Nexon EV XZ Plus LUX,"90,000",Electric,Automatic,11.50,Ahmedabad
+2020,Maruti Alto 800 LXI,"60,000",Petrol,Manual,2.95,Ahmedabad
+Request,Photos,,,,"1,60,000 kms   •   Petrol   •   Manual",Ahmedabad
+2022,Maruti Eeco 5 Seater AC CNG BSVI,"40,000",CNG,Manual,5.30,Ahmedabad
+2017,Hyundai Grand i10 1.2 Kappa Era,"1,20,000",Petrol,Manual,3.05,Ahmedabad
+2013,Renault Duster 85PS Diesel RxE,"60,000",Diesel,Manual,3.25,Ahmedabad
+2013,Audi Q7 3.0 TFSI Quattro,"90,000",Petrol,Automatic,12,Ahmedabad
+2010,Maruti Wagon R LXI Minor,"1,06,000",Petrol,Manual,2,Ahmedabad
+2018,Maruti S Cross Zeta DDiS 200 SH,"70,000",Diesel,Manual,7,Ahmedabad
+2010,Hyundai Getz 1.3 GLS,"60,000",Petrol,Manual,"80,800",Ahmedabad
+2011,Maruti Wagon R LXI Minor,"40,000",Petrol,Manual,1.60,Ahmedabad
+2019,Mahindra TUV 300 T10,"80,000",Diesel,Manual,7,Ahmedabad
+2014,Tata Zest Revotron 1.2T XMS,"1,00,000",Petrol,Manual,1.34,Ahmedabad
+2019,Kia Seltos HTX Diesel,"1,00,000",Diesel,Manual,10,Ahmedabad
+2016,Maruti Ciaz VDi Plus SHVS,"97,000",Diesel,Manual,4.01,Ahmedabad
+2017,Volvo S60 D4 Momentum BSIV,"1,00,000",Diesel,Automatic,15,Ahmedabad
+2017,Renault KWID Climber 1.0 AMT Opt BSIV,"50,000",Petrol,Automatic,3.33,Ahmedabad
+2019,Mahindra TUV 300 T10,"80,000",Diesel,Manual,5.50,Ahmedabad
+Request,Photos,,,,"90,000 kms   •   Petrol   •   Manual",Ahmedabad
+2009,Audi A6 3.0 TFSI quattro,"80,000",Petrol,Automatic,6,Ahmedabad
+2016,Maruti Swift Dzire VDI,"1,20,000",Diesel,Manual,3.75,Ahmedabad
+Request,Photos,,,,"60,000 kms   •   Petrol   •   Manual",Ahmedabad
+2017,Jeep Compass 2.0 Sport,"50,000",Diesel,Manual,6,Ahmedabad
+2016,Maruti Vitara Brezza ZDi,"1,20,000",Diesel,Manual,5.75,Ahmedabad
+2018,Ford Aspire 1.2 Ti-VCT Titanium,"80,000",Petrol,Manual,3.30,Ahmedabad
+2017,Hyundai Elantra 1.6 SX,"1,20,000",Diesel,Manual,6,Ahmedabad
+2011,BMW 3 Series 320i,"1,50,000",Petrol,Automatic,6,Ahmedabad
+2023,Hyundai i20 Sportz IVT,"40,000",Petrol,Automatic,6.70,Ahmedabad
+2013,Maruti Swift VXI,"80,000",Petrol,Manual,3.03,Ahmedabad
+2021,Tata Nexon EV XZ Plus,"70,000",Electric,Automatic,9,Ahmedabad
+2015,Mercedes-Benz C-Class C 220 CDI Avantgarde,"50,000",Diesel,Automatic,22,Ahmedabad
+2011,Maruti Swift Dzire VDi,"90,000",Diesel,Manual,2.05,Ahmedabad
+2013,Maruti Swift VXI,"80,000",Petrol,Manual,3,Ahmedabad
+2013,Hyundai Verna 1.6 CRDi EX AT,"1,20,000",Diesel,Automatic,2.50,Ahmedabad
+2023,Maruti Swift Dzire ZXI BSVI,"66,000",Petrol,Manual,8,Ahmedabad
+Request,Photos,,,,"60,000 kms   •   Petrol   •   Manual",Ahmedabad
+2022,Maruti Swift VXI BSVI,"60,000",Petrol,Manual,5.10,Ahmedabad
+2016,Mahindra XUV500 W8 2WD,"1,20,000",Diesel,Manual,4.70,Ahmedabad
+2017,Honda Brio 1.2 S MT,"60,000",Petrol,Manual,3.24,Ahmedabad
+2020,Hyundai Creta 1.6 EX Petrol,"40,000",Petrol,Manual,7.50,Ahmedabad
+2023,Tata Harrier XZA Plus (O) Dark Edition AT,"80,000",Diesel,Automatic,19,Ahmedabad
+2017,Jeep Compass 2.0 Sport,"50,000",Diesel,Manual,6,Ahmedabad
+2017,Volkswagen Polo 1.2 MPI Highline,"1,20,000",Petrol,Manual,5.50,Ahmedabad
+2014,Maruti Swift LXI Optional-O,"90,000",Petrol,Manual,3.20,Ahmedabad
+Request,Photos,,,,"90,000 kms   •   Diesel   •   Manual",Ahmedabad
+2022,Kia Seltos GTX Plus DCT,"30,000",Petrol,Automatic,15,Ahmedabad
+2021,Renault KWID Neotech,"50,000",Petrol,Manual,2.75,Ahmedabad
+2018,Hyundai Verna CRDi 1.6 AT SX Plus,"1,50,000",Diesel,Automatic,6.80,Ahmedabad
+2019,Maruti Vitara Brezza VDi,"1,60,000",Diesel,Manual,5.30,Ahmedabad
+Request,Photos,,,,"50,000 kms   •   Petrol   •   Manual",Ahmedabad
+2023,Tata Nexon Creative DT,"10,000",Petrol,Manual,8.50,Ahmedabad
+Request,Photos,,,,"80,000 kms   •   Electric   •   Automatic",Ahmedabad
+2017,Datsun RediGO 1.0 T Option,"40,000",Petrol,Manual,1.70,Ahmedabad
+Request,Photos,,,,"50,000 kms   •   Petrol   •   Manual",Ahmedabad
+2017,Datsun RediGO 1.0 T Option,"40,000",Petrol,Manual,1.70,Ahmedabad
+2019,Maruti Vitara Brezza VDi,"1,60,000",Diesel,Manual,5.30,Ahmedabad
+Request,Photos,,,,"50,000 kms   •   Petrol   •   Manual",Ahmedabad
+2023,Tata Nexon Creative Plus S,"40,000",Petrol,Manual,8.50,Ahmedabad
+2021,Kia Sonet GTX Plus Turbo DCT BSVI,"90,000",Petrol,Automatic,9.50,Ahmedabad
+2010,Hyundai i10 Era,"60,000",Petrol,Manual,2,Ahmedabad
+2019,BMW 5 Series 520d Luxury Line,"1,50,000",Diesel,Automatic,30,Ahmedabad
+2019,Tata Nexon 1.2 Revotron XZ,"30,000",Petrol,Manual,6.25,Ahmedabad
+2017,Maruti Baleno RS 1.0 Petrol,"1,00,000",Petrol,Manual,4.50,Ahmedabad
+2020,Maruti Ciaz Alpha BSVI,"70,000",Petrol,Manual,6.12,Ahmedabad
+2020,Renault KWID 1.0 RXT Opt BSIV,"40,000",Petrol,Manual,2.50,Ahmedabad
+2011,Honda City V MT,"1,60,000",Petrol,Manual,1.70,Ahmedabad
+2022,Tata Harrier XZA Plus Dark Edition AT 2020-2022,"90,000",Diesel,Automatic,14.50,Ahmedabad
+2018,Tata Nexon 1.2 Revotron XT Plus,"1,00,000",Petrol,Manual,5.50,Ahmedabad
+2011,Volkswagen Polo Petrol Trendline 1.2L,"40,000",Petrol,Manual,1.79,Ahmedabad
+2021,BMW X3 xDrive 20d Luxury Line,"60,000",Diesel,Automatic,43,Ahmedabad
+2012,Maruti Wagon R VXI BS IV,"1,50,000",Petrol,Manual,1.65,Ahmedabad
+2022,Skoda Slavia 1.0 TSI Style BSVI,"40,000",Petrol,Manual,10.10,Ahmedabad
+2012,Maruti Alto 800 LXI,"90,000",Petrol,Manual,1.30,Ahmedabad
+2013,Honda Brio VX,"70,000",Petrol,Manual,2.75,Ahmedabad
+2013,BMW 3 Series 328i Sport Line,"90,000",Petrol,Automatic,8,Ahmedabad
+2014,Mercedes-Benz M-Class ML 250 CDI,"80,000",Diesel,Automatic,17,Ahmedabad
+Request,Photos,,,,"30,000 kms   •   Petrol   •   Manual",Ahmedabad
+2024,Mahindra XUV400 EV EL Pro DT 394 kWh,"10,000",Electric,Automatic,16,Ahmedabad
+2021,Renault KWID 1.0 RXL AMT,"20,000",Petrol,Automatic,3.93,Ahmedabad
+2021,Hyundai Creta SX Executive Diesel BSVI,"1,20,000",Diesel,Manual,12,Ahmedabad
+2024,Mahindra Thar LX Hard Top MLD Diesel AT,"10,000",Diesel,Automatic,16.50,Ahmedabad
+2017,Audi A6 35 TFSI,"40,000",Petrol,Automatic,30,Ahmedabad
+2022,MG Hector Shine Diesel MT,"80,000",Diesel,Manual,14,Ahmedabad
+2016,Maruti Eeco 5 STR With AC Plus HTR CNG,"72,416",CNG,Manual,3.66,"Gota, Ahmedabad"
+2016,Hyundai Xcent VTVT Plus ABS,"80,000",Petrol,Manual,4.10,Ahmedabad
+2019,Hyundai Creta 1.6 SX Option Executive Diesel,"1,50,000",Diesel,Manual,9.50,Ahmedabad
+Request,Photos,,,,"60,000 kms   •   Diesel   •   Manual",Ahmedabad
+2016,Toyota Fortuner 2.8 2WD AT BSIV,"1,60,000",Diesel,Automatic,13.50,Ahmedabad
+2015,Honda City i VTEC CVT VX,"1,20,000",Petrol,Automatic,4.50,Ahmedabad
+2018,Volkswagen Ameo 1.0 MPI Comfortline,"1,20,000",Petrol,Manual,3.30,Ahmedabad
+2021,Maruti Eeco 5 Seater AC 2020-2022,"20,000",Petrol,Manual,4.55,Ahmedabad
+2019,Tata Tigor 1.2 Revotron XZ,"30,000",Petrol,Manual,4.65,Ahmedabad
+2023,Tata Tiago EV XZ Plus LR,"40,000",Electric,Automatic,8.50,Ahmedabad
+Request,Photos,,,,"1,00,000 kms   •   Petrol   •   Manual",Ahmedabad
+Request,Photos,,,,"1,00,000 kms   •   Petrol   •   Manual",Ahmedabad
+2018,Volkswagen Ameo 1.0 MPI Comfortline,"1,20,000",Petrol,Manual,3.30,Ahmedabad
+2023,Renault Kiger RXE,"10,000",Petrol,Manual,6.20,Ahmedabad
+2023,Hyundai Venue SX Diesel,"50,000",Diesel,Manual,10,Ahmedabad
+2010,Hyundai Accent GLE,"10,00,000",Petrol,Manual,1.25,Ahmedabad
+2023,Tata Tiago EV XZ Plus Tech LUX LR,"20,000",Electric,Automatic,9,Ahmedabad
+2012,Audi Q5 2.0 TDI,"1,20,000",Diesel,Automatic,10.50,Ahmedabad
+2019,Tata Tigor 1.2 Revotron XZ,"30,000",Petrol,Manual,4.65,Ahmedabad
+2021,Maruti Eeco 5 Seater AC 2020-2022,"20,000",Petrol,Manual,4.55,Ahmedabad
+2019,Maruti Eeco CNG HTR 5-STR,"50,000",CNG,Manual,4,Ahmedabad
+2022,Kia Sonet HTX Diesel AT BSVI,"70,000",Diesel,Automatic,11,Ahmedabad
+2016,Maruti Eeco 5 STR With AC Plus HTR CNG,"72,416",CNG,Manual,3.66,"Gota, Ahmedabad"
+Request,Photos,,,,"60,000 kms   •   Petrol   •   Manual",Ahmedabad
+2023,Tata Nexon Creative Plus S DT,"50,000",Petrol,Manual,9,Ahmedabad
+2012,BMW 1 Series 118d Sport Plus,"90,000",Diesel,Automatic,10,Ahmedabad
+2019,Maruti Alto K10 VXI,"80,000",Petrol,Manual,2.50,Ahmedabad
+2009,Hyundai i10 Era 1.1,"90,000",Petrol,Manual,1.61,Ahmedabad
+2018,Ford Ecosport 1.5 Petrol Trend BSIV,"1,27,363",Petrol,Manual,5.40,Ahmedabad
+2018,Ford Ecosport 1.5 Petrol Trend BSIV,"1,27,363",Petrol,Manual,5.40,Ahmedabad
+2019,Maruti Swift Dzire VXI 1.2,"30,000",Petrol,Manual,5.50,Ahmedabad
+2022,Honda City V MT,"20,000",Petrol,Manual,9.95,Ahmedabad
+2021,Toyota Urban cruiser Mid,"80,000",Petrol,Manual,6.40,Ahmedabad
+2022,Tata Safari XZA Plus Gold AT,"30,000",Diesel,Automatic,17,Ahmedabad
+2019,Hyundai Grand i10 1.2 Kappa Sportz Dual Tone,"90,000",Petrol,Manual,4.10,Ahmedabad
+Request,Photos,,,,"60,000 kms   •   Diesel   •   Manual",Ahmedabad
+2012,Maruti Alto 800 LXI,"70,000",Petrol,Manual,1.28,Ahmedabad
+2013,Hyundai EON Era Plus,"70,000",Petrol,Manual,1.20,Ahmedabad
+2016,Toyota Fortuner 2.8 2WD AT BSIV,"1,60,000",Diesel,Automatic,13.50,Ahmedabad
+2015,Honda City i VTEC CVT VX,"1,20,000",Petrol,Automatic,4.50,Ahmedabad
+Request,Photos,,,,"50,000 kms   •   Petrol   •   Manual",Ahmedabad
+2022,Kia Seltos HTX Diesel,"50,000",Diesel,Manual,12.25,Ahmedabad
+2012,Hyundai EON Era,"80,000",Petrol,Manual,1.38,Ahmedabad
+2013,Ford Figo Diesel Titanium,"1,60,000",Diesel,Manual,1.20,Ahmedabad
+2010,Hyundai i20 1.2 Magna,"60,000",Petrol,Manual,1.40,Ahmedabad
+2018,Mahindra XUV500 AT W10 AWD,"70,000",Diesel,Automatic,9,Ahmedabad
+2021,Tata Altroz XZ BSVI,"50,000",Petrol,Manual,6.40,Ahmedabad
+2021,Maruti Eeco 5 Seater AC 2020-2022,"50,000",Petrol,Manual,5,"Naranpura Vistar, Ahmedabad"
+2015,Honda City i VTEC VX,"90,000",Petrol,Manual,4.35,Ahmedabad
+2014,Maruti Ertiga VDI,"1,60,000",Diesel,Manual,4.15,Ahmedabad
+2019,Maruti Wagon R VXI,"30,000",Petrol,Manual,4.30,Ahmedabad
+2023,Volkswagen Virtus Topline,"20,000",Petrol,Manual,11.50,Ahmedabad
+2017,Volvo S60 Cross Country D4 AWD BSIV,"70,000",Diesel,Automatic,15,Ahmedabad
+2017,Jeep Compass 2.0 Longitude BSIV,"70,000",Diesel,Manual,6,Ahmedabad
+2021,Hyundai Venue SX Diesel,"1,00,000",Diesel,Manual,8.50,Ahmedabad
+2013,Hyundai i10 Magna,"60,000",Petrol,Manual,1.90,Ahmedabad
+Request,Photos,,,,"90,000 kms   •   Diesel   •   Manual",Ahmedabad
+2018,Maruti S Cross Alpha DDiS 200 SH,"10,000",Diesel,Manual,7.50,Ahmedabad
+2014,Audi Q3 35 TDI Quattro Premium,"1,50,000",Diesel,Automatic,8.30,Ahmedabad
+2010,Maruti Swift 1.3 VXi,"60,000",Petrol,Manual,1.70,Ahmedabad
+2023,Kia Carens Luxury iMT,"20,000",Petrol,Automatic,11,Ahmedabad
+2023,Tata Tiago NRG XT CNG,"30,000",CNG,Manual,6.50,Ahmedabad
+2017,Hyundai Grand i10 Magna,"1,00,000",Petrol,Manual,3.72,Ahmedabad
+2017,Maruti Ciaz 1.4 Alpha,"1,20,000",Petrol,Manual,5,Ahmedabad
+2012,Renault Duster 110PS Diesel RxL,"70,000",Diesel,Manual,1.70,Ahmedabad
+2012,Hyundai EON Era Plus,"60,000",Petrol,Manual,1.50,Ahmedabad
+2022,Mahindra XUV700 AX5 7 Str BSVI,"80,000",Petrol,Manual,12.25,Ahmedabad
+2021,Mahindra XUV700 AX7 AT BSVI,"20,000",Petrol,Automatic,14,Ahmedabad
+2019,Honda Amaze S Petrol BSIV,"40,000",Petrol,Manual,5,Ahmedabad
+2022,Citroen C3 Puretech 110 Feel,"40,000",Petrol,Manual,5.51,Ahmedabad
+2018,Tata Tiago 1.2 Revotron XT,"40,000",Petrol,Manual,3.80,Ahmedabad
+2024,Hyundai Creta S (O) iVT,"10,000",Petrol,Automatic,14.55,Ahmedabad
+2015,Hyundai Creta 1.6 CRDi AT SX Plus,"80,000",Diesel,Automatic,6.45,Ahmedabad
+2019,Maruti Baleno 1.2 Sigma,"50,000",Petrol,Manual,3.90,Ahmedabad
+2011,Hyundai i20 1.2 Magna,"1,00,000",Petrol,Manual,2,Ahmedabad
+2011,Honda City 1.5 E MT,"90,000",Petrol,Manual,1.75,Ahmedabad
+2014,Maruti Alto 800 LXI,"1,20,000",Petrol,Manual,1.50,Ahmedabad
+2010,Honda New Accord 2.4 A/T,"1,20,000",Petrol,Automatic,2.50,Ahmedabad
+2023,MG Astor Sharp Ivory MT,"30,000",Petrol,Manual,13.30,Ahmedabad
+2023,Toyota Hilux High,"19,000",Diesel,Manual,27,"Ambli, Ahmedabad"
+2020,BMW X3 xDrive 20d Luxury Line,"1,00,000",Diesel,Automatic,45,Ahmedabad
+2020,Mercedes-Benz GLC 200,"40,000",Petrol,Automatic,39.50,Ahmedabad
+2018,Maruti Ciaz 1.4 Delta,"90,000",Petrol,Manual,4.84,Ahmedabad
+2021,Maruti Eeco Cargo AC 5 Str Opt,"24,961",Petrol,Manual,4.78,"Gota, Ahmedabad"
+2022,Mahindra Thar LX 4WD Hard Top AT BSVI,"30,000",Petrol,Automatic,13.50,Ahmedabad
+2015,Maruti Swift VXI,"1,60,000",Petrol,Manual,3.20,Ahmedabad
+2021,Maruti Wagon R ZXI 1.2,"30,000",Petrol,Manual,4.47,Ahmedabad
+2021,Maruti Wagon R ZXI 1.2,"30,000",Petrol,Manual,4.80,Ahmedabad
+Request,Photos,,,,"80,000 kms   •   Diesel   •   Automatic",Ahmedabad
+Request,Photos,,,,"70,000 kms   •   Petrol   •   Manual",Ahmedabad
+2011,Maruti Swift Dzire 1.2 Vxi BSIV,"50,000",Petrol,Manual,1.90,Ahmedabad
+Request,Photos,,,,"70,000 kms   •   Petrol   •   Manual",Ahmedabad
+2022,Skoda Kushaq 1.0 TSI Ambition Classic,"30,000",Petrol,Manual,9.50,Ahmedabad
+2021,Maruti Wagon R ZXI 1.2,"30,000",Petrol,Manual,4.47,Ahmedabad
+2017,Maruti Ciaz 1.4 Zeta,"40,000",Petrol,Manual,5.15,Ahmedabad
+Request,Photos,,,,"70,000 kms   •   Petrol   •   Manual",Ahmedabad
+2013,Volkswagen Polo 1.2 MPI Comfortline,"1,20,000",Petrol,Manual,2.10,Ahmedabad
+2018,Maruti Vitara Brezza VDi Option,"1,20,000",Diesel,Manual,6,Ahmedabad
+2024,Mercedes-Benz GLA 200,"10,000",Petrol,Automatic,43,Ahmedabad
+2010,Hyundai i20 1.2 Magna,"60,000",Petrol,Manual,2.10,Ahmedabad
+2018,BMW 6 Series GT 630d M Sport 2018-2021,"80,000",Diesel,Automatic,2.80,Ahmedabad
+2010,Hyundai i10 Magna 1.1,"80,000",Petrol,Manual,1.55,Ahmedabad
+2015,Hyundai i20 Sportz 1.2,"40,000",Petrol,Manual,4.51,Ahmedabad
+2024,Tata Punch EV Empowered Plus LR,"20,000",Electric,Automatic,13.50,Ahmedabad
+2022,Renault Triber RXZ BSVI,"40,000",Petrol,Manual,6,Ahmedabad
+2009,Hyundai i10 Era,"30,000",Petrol,Manual,2,Ahmedabad
+2014,Hyundai EON D Lite Plus,"1,50,000",Petrol,Manual,1.50,Ahmedabad
+2022,Citroen C3 Puretech 82 Feel BSVI,"40,000",Petrol,Manual,4.50,Ahmedabad
+2016,Tata Indigo LS TDI BSIII,"90,000",Diesel,Manual,1.30,Ahmedabad
+2023,Renault Kiger RXZ,"10,000",Petrol,Manual,6.75,Ahmedabad
+2023,Maruti Eeco 5 Seater AC CNG,"17,500",CNG,Manual,6.49,"Naranpura, Ahmedabad"
+2012,Tata Indica Aura 1.3 Quadrajet (ABS),"1,60,000",Diesel,Manual,1.10,Ahmedabad
+2014,Hyundai Grand i10 Magna,"70,000",Petrol,Manual,2.50,Ahmedabad
+2011,Maruti Swift Dzire LXI Option,"1,00,000",Petrol,Manual,2.10,Ahmedabad
+2013,Ford Ecosport 1.5 DV5 MT Titanium,"90,000",Diesel,Manual,3.25,Ahmedabad
+2010,Hyundai i10 Magna 1.2,"1,50,000",Petrol,Manual,1.35,Ahmedabad
+2020,Maruti Wagon R VXI,"34,839",Petrol,Manual,4.30,"Naroda, Ahmedabad"
+2017,Maruti Baleno 1.2 Delta,"33,177",Petrol,Manual,4.75,"Naroda, Ahmedabad"
+2022,Honda City V MT,"29,499",Petrol,Manual,8.01,"Naroda, Ahmedabad"
+2016,Maruti Baleno 1.2 CVT Delta,"55,000",Petrol,Automatic,4,"Navrangpura, Ahmedabad"
+2021,Hyundai Santro Era Executive,"68,000",Petrol,Manual,4,"Navrangpura, Ahmedabad"
+2014,Hyundai i10 Era,"45,000",Petrol,Manual,3,"Navrangpura, Ahmedabad"
+2021,Nissan Magnite XE BSVI,"25,215",Petrol,Manual,4.59,"Naroda, Ahmedabad"
+2022,Maruti Swift VXI,"29,468",Petrol,Manual,5.87,"Mumatpura, Ahmedabad"
+2018,Maruti Alto 800 LXI,"48,000",Petrol,Manual,2.75,"Navrangpura, Ahmedabad"
+2008,Hyundai Accent Executive,"1,60,000",Petrol,Manual,"20,000",Ahmedabad
+2020,Tata Nexon EV XZ Plus,"44,000",Electric,Automatic,9,"Navrangpura, Ahmedabad"
+2016,Hyundai i20 Sportz 1.4 CRDi,"1,20,000",Diesel,Manual,4.70,Ahmedabad
+2014,Jaguar XF 3.0 Litre S Premium Luxury,"45,000",Diesel,Automatic,16.90,"Chattarpur, New Delhi"
+2018,BMW X3 xDrive 20d xLine,"35,000",Diesel,Automatic,36.90,"Chattarpur, New Delhi"
+2018,BMW 5 Series 520d Sport Line,"40,000",Diesel,Automatic,33.90,"Chattarpur, New Delhi"
+2018,BMW X3 xDrive 20d xLine,"72,000",Diesel,Automatic,26.90,"Chattarpur, New Delhi"
+2018,BMW 5 Series 530i Sport Line,"60,000",Petrol,Automatic,37.90,"Chattarpur, New Delhi"
+2019,Jaguar F-Pace Prestige 2.0 AWD,"65,000",Diesel,Automatic,37.90,"Chattarpur, New Delhi"
+2017,Land Rover Discovery Sport Si4 HSE,"69,000",Petrol,Automatic,34.90,"Chattarpur, New Delhi"
+2018,Audi Q5 45 TFSI Technology,"61,000",Petrol,Automatic,37.90,"Chattarpur, New Delhi"
+2017,Audi Q3 30 TDI,"47,000",Diesel,Manual,18.90,"Chattarpur, New Delhi"
+2016,BMW 5 Series 520i Luxury Line,"55,000",Petrol,Automatic,24.90,"Chattarpur, New Delhi"
+2016,BMW 7 Series 730Ld Design Pure Excellence CBU,"38,000",Diesel,Automatic,38.90,"Chattarpur, New Delhi"
+2016,BMW 7 Series 730Ld Design Pure Excellence CBU,"40,000",Diesel,Automatic,38.90,"Chattarpur, New Delhi"
+2015,BMW X5 xDrive 30d,"98,000",Diesel,Automatic,27.90,"Chattarpur, New Delhi"
+2016,Jaguar XF 2.0 Diesel Prestige,"44,000",Diesel,Automatic,17.45,"Indirapuram, Ghaziabad"
+2016,Audi Q7 45 TDI Quattro Premium Plus,"81,000",Diesel,Automatic,34.90,"Chattarpur, New Delhi"
+2016,Jaguar XJ 2.0L Portfolio,"22,000",Petrol,Automatic,41.90,"Chattarpur, New Delhi"
+2015,Audi A6 35 TDI Premium,"54,000",Diesel,Automatic,14.90,"Chattarpur, New Delhi"
+2012,Jaguar XJ 3.0L Premium Luxury,"72,000",Diesel,Automatic,12.75,"Indirapuram, Ghaziabad"
+2018,BMW X1 sDrive 20d xLine,"67,000",Diesel,Automatic,22.90,"Chattarpur, New Delhi"
+2017,Audi Q3 30 TDI,"48,000",Diesel,Manual,18.90,"Chattarpur, New Delhi"
+2017,Mercedes-Benz CLA 200 CDI Style,"70,800",Diesel,Automatic,16.45,"Indirapuram, Ghaziabad"
+2013,Audi Q7 3.0 TDI quattro,"75,000",Diesel,Automatic,13.90,"Chattarpur, New Delhi"
+2015,Mercedes-Benz CLA 200 CDI Sport,"85,000",Diesel,Automatic,9.45,"Indirapuram, Ghaziabad"
+2018,BMW X1 sDrive 20d xLine,"66,000",Diesel,Automatic,22.90,"Chattarpur, New Delhi"
+2016,Audi A4 35 TDI Technology Edition,"76,250",Diesel,Automatic,8.99,"Indirapuram, Ghaziabad"
+2015,Hyundai Santa Fe 2WD AT,"66,200",Diesel,Automatic,5.65,"Indirapuram, Ghaziabad"
+2012,Jaguar XJ 3.0L,"76,000",Diesel,Automatic,10.99,"Indirapuram, Ghaziabad"
+2012,Mercedes-Benz S-Class S 350 CDI,"87,000",Diesel,Automatic,8.75,"Indirapuram, Ghaziabad"
+2014,Audi A4 35 TDI Premium,"75,300",Diesel,Automatic,5.99,"Indirapuram, Ghaziabad"
+2014,Mercedes-Benz S-Class S 500 L,"81,000",Petrol,Automatic,42.90,"Chattarpur, New Delhi"
+2014,Mercedes-Benz S-Class S 500 L,"81,000",Petrol,Automatic,42.90,"Chattarpur, New Delhi"
+2015,Land Rover Range Rover Evoque Pure,"68,000",Diesel,Automatic,22.90,"Chattarpur, New Delhi"
+2019,Mercedes-Benz GLS 350d 4MATIC,"63,000",Diesel,Automatic,60.90,"Chattarpur, New Delhi"
+2015,BMW Z4 sDrive 35i,"35,000",Petrol,Automatic,46.90,"Chattarpur, New Delhi"
+2018,Mercedes-Benz GLS 350d 4MATIC,"1,10,000",Diesel,Automatic,48.90,"Chattarpur, New Delhi"
+2017,Mercedes-Benz S-Class S 350 d,"54,000",Diesel,Automatic,42.90,"Chattarpur, New Delhi"
+2016,Mercedes-Benz S-Class S 350 d,"61,000",Diesel,Automatic,38.90,"Chattarpur, New Delhi"
+2014,Mercedes-Benz E-Class E 200 CGI,"58,000",Petrol,Automatic,18.90,"Chattarpur, New Delhi"
+2016,Mercedes-Benz GLE 250d,"96,000",Diesel,Automatic,33.90,"Chattarpur, New Delhi"
+2017,Mercedes-Benz GLC 220,"69,000",Diesel,Automatic,33.90,"Chattarpur, New Delhi"
+2016,Mercedes-Benz C-Class C 200 CGI Avantgarde,"66,000",Petrol,Automatic,25.90,"Chattarpur, New Delhi"
+2017,Mercedes-Benz CLA 200 CDI Sport,"48,000",Diesel,Automatic,20.90,"Chattarpur, New Delhi"
+2017,Mercedes-Benz GLC 220,"70,000",Diesel,Automatic,33.90,"Chattarpur, New Delhi"
+2014,Mercedes-Benz E-Class E 200 CGI,"58,000",Petrol,Automatic,18.90,"Chattarpur, New Delhi"
