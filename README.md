@@ -12,7 +12,7 @@ Feature Description Car Name Name of the car Year Manufacturing year Kilometers 
 
 🛠 Project Workflow ✔ Data Collection – Scraped data from car-selling websites ✔ Data Cleaning – Handled missing values, outliers, and categorical encoding ✔ Exploratory Data Analysis (EDA) – Visualized patterns in car pricing ✔ Feature Engineering – Created new features to improve model accuracy ✔ Model Training – Applied Random Forest, XGBoost, and other algorithms ✔ Model Deployment – Built an interactive Streamlit web app
 
-🔧 Installation & Setup 1️⃣ Clone the Repository bash Copy Edit git clone https://github.com/harivign/used_car_price_prediction_project.git cd used_car_price_prediction_project 2️⃣ Install Dependencies bash Copy Edit pip install -r requirements.txt 3️⃣ Run the Streamlit App bash Copy Edit streamlit run used_car_project.py 💡 Now, open your browser at http://localhost:8503 to use the app!
+🔧 Installation & Setup 1️⃣ Clone the Repository bash Copy Edit git clone https://github.com/gopaldsgithup/cardeho_used_car_price_prediction_project 2️⃣ Install Dependencies bash Copy Edit pip install -r requirements.txt 3️⃣ Run the Streamlit App bash Copy Edit streamlit run used_car_project.py 💡 Now, open your browser at http://localhost:8503 to use the app!
 
 🖥 Streamlit Web App Interface 🚗 User Inputs: Enter car details (Year, Fuel Type, Transmission, etc.) 📊 Model Prediction: The app predicts the estimated resale price of the car
 
